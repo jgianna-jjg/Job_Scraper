@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-26 16:39 UTC*
+*Last updated: 2026-09-26 17:38 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Environmental Specialist II - ES](https://www.linkedin.com/jobs/view/4462342061/) — Republic Services
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $78,400.00 to $107,800.00
+### [Environmental Scientist II](https://www.linkedin.com/jobs/view/4462340795/) — HydroGeoLogic, Inc.
+- 📍 **Location:** Pleasanton, CA
+- 💰 **Salary:** $73,512.00/yr - $106,593.00/yr
 - 🕒 **Posted:** 2026-09-26
