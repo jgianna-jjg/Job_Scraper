@@ -1,9 +1,14 @@
 # 🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles
-*Last updated: 2026-09-24 19:29 UTC*
+*Last updated: 2026-09-26 15:08 UTC*
 
-**1 new role(s)** since last run · 5 total in current USAJOBS postings
+**2 new role(s)** since last run · 6 total in current USAJOBS postings
 
-### [Environmental Protection Specialist](https://www.usajobs.gov/job/885826600) — Animal and Plant Health Inspection Service
-- 📍 **Location:** Fort Collins, Colorado
-- 💰 **Salary:** Starting at $89,508 Per year (GS 12)
-- 🕒 **Posted:** 2026-09-23
+### [Environmental Protection Specialist (Direct Hire)](https://www.usajobs.gov/job/886144200) — Armstrong Flight Research Center
+- 📍 **Location:** Edwards AFB, California
+- 💰 **Salary:** Starting at $104,349 Per year (GS 12)
+- 🕒 **Posted:** 2026-09-25
+
+### [Environmental Protection Specialist](https://www.usajobs.gov/job/886088400) — United States Army Installation Management Command
+- 📍 **Location:** Fort Devens, Massachusetts
+- 💰 **Salary:** Starting at $84,579 Per year (GS 11)
+- 🕒 **Posted:** 2026-09-25
