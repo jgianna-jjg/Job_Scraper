@@ -1,0 +1,186 @@
+{
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
+
+  "profile": {
+    "title": "IT & Cybersecurity Leadership Tracker",
+    "subtitle": "United States · Remote",
+    "emoji": "🛡️"
+  },
+
+  "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
+    "include": [
+      "chief information officer", "cio",
+      "chief information security officer", "ciso",
+      "chief technology officer", "cto",
+      "vp of it security", "vp of cybersecurity", "vp, it security", "vp, cybersecurity",
+      "vp of information security", "vp, information security",
+      "vp of technology", "vp, technology", "vp of information technology", "vp, information technology",
+      "vice president of it security", "vice president of cybersecurity",
+      "vice president of information security", "vice president of technology",
+      "vice president of information technology", "vice president, technology",
+      "vice president, information security", "vice president, it security",
+      "director of information technology", "director of it", "director, information technology", "director, it",
+      "director of it security", "director of cybersecurity", "director, it security", "director, cybersecurity",
+      "director of information security", "director, information security",
+      "director of technology", "director, technology",
+      "head of information technology", "head of it", "head of cybersecurity", "head of information security", "head of technology"
+    ],
+    "_exclude_comment": "Titles containing any of these are dropped (junior/off-field/individual contributor roles).",
+    "exclude": [
+      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice", "technician",
+      "assistant", "associate", "junior", "entry level", "helpdesk", "help desk", "desktop support",
+      "coordinator", "administrator", "analyst", "specialist", "engineer"
+    ],
+    "_fuzzy_comment": "Optional fuzzy pre-filter for LinkedIn title matching.",
+    "fuzzy_seniority": ["Chief", "Vice President", "VP", "Director", "Head"],
+    "fuzzy_domain": ["Information Officer", "Information Security Officer", "Cybersecurity", "IT Security", "Technology", "Information Technology", "IT"],
+    "fuzzy_exclude": ["Intern", "Assistant", "Junior", "Technician", "Helpdesk", "Engineer", "Analyst"]
+  },
+
+  "search_terms": {
+    "_comment": "Queries sent to the job boards' search boxes.",
+    "linkedin": [
+      "Chief Information Officer", "Chief Information Security Officer",
+      "Vice President IT Security", "Vice President Cybersecurity",
+      "Vice President Technology", "Vice President Information Technology",
+      "Director Information Technology", "Director IT Security", "Director Cybersecurity", "Director Technology"
+    ],
+    "indeed": [
+      "Chief Information Officer", "Chief Information Security Officer",
+      "VP IT Security", "VP Cybersecurity", "VP Technology",
+      "Director Information Technology", "Director IT Security", "Director Technology"
+    ],
+    "glassdoor": [
+      "Chief Information Officer", "Chief Information Security Officer",
+      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security"
+    ],
+    "ziprecruiter": [
+      "Chief Information Officer", "Chief Information Security Officer",
+      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security"
+    ],
+    "google_jobs": [
+      "Chief Information Officer", "Chief Information Security Officer",
+      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security"
+    ],
+    "hiring_cafe": [
+      "Chief Information Officer", "Chief Information Security Officer",
+      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security"
+    ],
+    "calcareers": [
+      "Chief Information Officer", "Chief Information Security Officer",
+      "Information Technology Director", "Cybersecurity Director"
+    ],
+    "usajobs": [
+      "Chief Information Officer", "Information Technology Management",
+      "Cybersecurity Director", "IT Director"
+    ],
+    "governmentjobs": [
+      "Chief Information Officer", "Information Technology Director",
+      "Cybersecurity Director", "IT Director"
+    ],
+    "workday": [
+      "Chief Information Officer", "Chief Information Security Officer",
+      "VP Technology", "Director Information Technology", "Director IT Security"
+    ]
+  },
+
+  "locations": {
+    "_comment": "Geo-targeting config targeting nationwide USA & Remote capabilities.",
+    "linkedin": [
+      { "name": "United States", "location": "United States", "geoId": "103644278" },
+      { "name": "Remote",        "location": "Remote",        "geoId": "103644278" }
+    ],
+    "indeed": [
+      { "location": "United States", "country": "USA" },
+      { "location": "Remote",        "country": "USA" }
+    ],
+    "glassdoor": [
+      { "location": "United States", "country": "USA" },
+      { "location": "Remote",        "country": "USA" }
+    ],
+    "ziprecruiter": [
+      { "location": "United States", "country": "USA" },
+      { "location": "Remote",        "country": "USA" }
+    ],
+    "google_jobs": [
+      { "location": "United States", "country": "USA" },
+      { "location": "Remote",        "country": "USA" }
+    ],
+    "hiring_cafe": [
+      { "location": "United States" }
+    ],
+    "linkedin_partitions": {
+      "states": [],
+      "high_volume": {
+        "locations": [],
+        "day_slices": true
+      }
+    }
+  },
+
+  "location_filter": {
+    "_comment": "Case-insensitive substrings matched against a job's location text.",
+    "terms": [
+      "united states", "us", ", us", ", usa", "remote", "work from home", "telecommute", "anywhere in us"
+    ]
+  },
+
+  "google_jobs": {
+    "_comment": "Optional exact Google Jobs queries.",
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+
+  "jobspy": {
+    "_comment": "Optional proxies config.",
+    "proxies": [],
+    "user_agent": ""
+  },
+
+  "hiring_cafe": {
+    "_comment": "Uses HiringCafe's public SSR /jobs/<query> pages.",
+    "max_pages": 3
+  },
+
+  "employers": {
+    "_priority_comment": "Optional priority enterprise tech & healthcare target orgs.",
+    "priority": [
+      "Microsoft", "Amazon", "Google", "Palo Alto Networks", "CrowdStrike", "Cisco",
+      "UnitedHealth Group", "Kaiser Permanente", "HCA Healthcare", "Salesforce", "ServiceNow"
+    ],
+    "_exclude_comment": "Optional exclusions.",
+    "exclude": []
+  },
+
+  "priority_topics": {
+    "_comment": "Optional topics of high strategic interest.",
+    "terms": [
+      ["Executive / C-Suite", "\\bcio\\b|\\bciso\\b|chief information officer|chief information security officer"],
+      ["Cloud Security / M365", "microsoft 365|m365|azure|cloud security|identity|iam"],
+      ["Governance & Compliance", "cis benchmark|soc 2|hipaa|nist|zero trust|compliance drift"]
+    ]
+  },
+
+  "role_categories": {
+    "_comment": "Dashboard 'Role' filter buckets.",
+    "terms": [
+      ["Executive (CIO / CISO)", "chief information|cio\\b|ciso\\b"],
+      ["VP Roles", "vice president|vp\\b"],
+      ["Director Roles", "director"],
+      ["Cybersecurity Focus", "security|cybersecurity|infosec"],
+      ["General IT / Technology Focus", "technology|information technology|\\bit\\b"]
+    ]
+  },
+
+  "notify": {
+    "_comment": "Pushover phone alerts config.",
+    "min_fit": 80,
+    "weekly_digest": {
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
