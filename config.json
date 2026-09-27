@@ -1,6 +1,4 @@
  {
-  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
-
   "profile": {
     "title": "IT & Cybersecurity Job Tracker",
     "subtitle": "United States · Remote",
@@ -24,7 +22,8 @@
       "director of it security", "director of cybersecurity", "director, it security", "director, cybersecurity",
       "director of information security", "director, information security",
       "director of technology", "director, technology",
-      "head of information technology", "head of it", "head of cybersecurity", "head of information security", "head of technology"
+      "head of information technology", "head of it", "head of cybersecurity", "head of information security", "head of technology", "head of technology & security",
+      "program manager", "security program manager", "dod security program manager", "it program manager", "cybersecurity program manager"
     ],
     "_exclude_comment": "Titles containing any of these are dropped (junior/off-field/individual contributor roles).",
     "exclude": [
@@ -33,8 +32,8 @@
       "coordinator", "administrator", "analyst", "specialist", "engineer"
     ],
     "_fuzzy_comment": "Optional fuzzy pre-filter for LinkedIn title matching.",
-    "fuzzy_seniority": ["Chief", "Vice President", "VP", "Director", "Head"],
-    "fuzzy_domain": ["Information Officer", "Information Security Officer", "Cybersecurity", "IT Security", "Technology", "Information Technology", "IT"],
+    "fuzzy_seniority": ["Chief", "Vice President", "VP", "Director", "Head", "Program Manager"],
+    "fuzzy_domain": ["Information Officer", "Information Security Officer", "Cybersecurity", "IT Security", "Technology", "Information Technology", "IT", "Security Program"],
     "fuzzy_exclude": ["Intern", "Assistant", "Junior", "Technician", "Helpdesk", "Engineer", "Analyst"]
   },
 
@@ -44,44 +43,51 @@
       "Chief Information Officer", "Chief Information Security Officer",
       "Vice President IT Security", "Vice President Cybersecurity",
       "Vice President Technology", "Vice President Information Technology",
-      "Director Information Technology", "Director IT Security", "Director Cybersecurity", "Director Technology"
+      "Director Information Technology", "Director IT Security", "Director Cybersecurity", "Director Technology",
+      "Head of Technology & Security", "Security Program Manager"
     ],
     "indeed": [
       "Chief Information Officer", "Chief Information Security Officer",
       "VP IT Security", "VP Cybersecurity", "VP Technology",
-      "Director Information Technology", "Director IT Security", "Director Technology"
+      "Director Information Technology", "Director IT Security", "Director Technology",
+      "Head of Technology", "Security Program Manager"
     ],
     "glassdoor": [
       "Chief Information Officer", "Chief Information Security Officer",
-      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security"
+      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security",
+      "Head of Technology", "Security Program Manager"
     ],
     "ziprecruiter": [
       "Chief Information Officer", "Chief Information Security Officer",
-      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security"
+      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security",
+      "Security Program Manager"
     ],
     "google_jobs": [
       "Chief Information Officer", "Chief Information Security Officer",
-      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security"
+      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security",
+      "Security Program Manager"
     ],
     "hiring_cafe": [
       "Chief Information Officer", "Chief Information Security Officer",
-      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security"
+      "VP Cybersecurity", "VP Technology", "Director Information Technology", "Director IT Security",
+      "Security Program Manager"
     ],
     "calcareers": [
       "Chief Information Officer", "Chief Information Security Officer",
-      "Information Technology Director", "Cybersecurity Director"
+      "Information Technology Director", "Cybersecurity Director", "Security Program Manager"
     ],
     "usajobs": [
       "Chief Information Officer", "Information Technology Management",
-      "Cybersecurity Director", "IT Director"
+      "Cybersecurity Director", "IT Director", "Security Program Manager"
     ],
     "governmentjobs": [
       "Chief Information Officer", "Information Technology Director",
-      "Cybersecurity Director", "IT Director"
+      "Cybersecurity Director", "IT Director", "Security Program Manager"
     ],
     "workday": [
       "Chief Information Officer", "Chief Information Security Officer",
-      "VP Technology", "Director Information Technology", "Director IT Security"
+      "VP Technology", "Director Information Technology", "Director IT Security",
+      "Security Program Manager"
     ]
   },
 
@@ -146,21 +152,24 @@
   },
 
   "employers": {
-    "_priority_comment": "Optional priority enterprise tech & healthcare target orgs.",
+    "_priority_comment": "Optional priority enterprise tech, defense, real estate, & healthcare target orgs.",
     "priority": [
       "Microsoft", "Amazon", "Google", "Palo Alto Networks", "CrowdStrike", "Cisco",
-      "UnitedHealth Group", "Kaiser Permanente", "HCA Healthcare", "Salesforce", "ServiceNow"
+      "UnitedHealth Group", "Kaiser Permanente", "HCA Healthcare", "Salesforce", "ServiceNow",
+      "Eastpointe Health", "Partners Health Management", "Bamboo Solutions", "Opteon USA", "NFL"
     ],
     "_exclude_comment": "Optional exclusions.",
     "exclude": []
   },
 
   "priority_topics": {
-    "_comment": "Optional topics of high strategic interest.",
+    "_comment": "Optional topics of high strategic interest derived from candidate experience.",
     "terms": [
-      ["Executive / C-Suite", "\\bcio\\b|\\bciso\\b|chief information officer|chief information security officer"],
-      ["Cloud Security / M365", "microsoft 365|m365|azure|cloud security|identity|iam"],
-      ["Governance & Compliance", "cis benchmark|soc 2|hipaa|nist|zero trust|compliance drift"]
+      ["Executive / C-Suite", "\\bcio\\b|\\bciso\\b|chief information officer|chief information security officer|director of IT|director of security"],
+      ["Cloud Security & Infrastructure", "microsoft 365|m365|azure|aws|cloud security|identity|iam|entra|fedramp|gcc"],
+      ["Governance, Risk & Compliance", "cis benchmark|soc 2|hipaa|hitrust|nist|cmmc|zero trust|compliance drift|greg|cgrc|itil"],
+      ["Enterprise Security Tools", "splunk|duo|umbrella|sophos|rapid7|watchguard|tenable|crowdstrike|mimecast|sentinel|barracuda|zix|defender|purview|zengrc"],
+      ["Enterprise Systems & Analytics", "dynamics erp|crm|hris|data warehouse|data analytics|bi visualization|jira|zendesk|itsm|manageengine|lamp"]
     ]
   },
 
@@ -170,7 +179,8 @@
       ["Executive (CIO / CISO)", "chief information|cio\\b|ciso\\b"],
       ["VP Roles", "vice president|vp\\b"],
       ["Director Roles", "director"],
-      ["Cybersecurity Focus", "security|cybersecurity|infosec"],
+      ["Head & Program Management", "head of|program manager"],
+      ["Cybersecurity Focus", "security|cybersecurity|infosec|compliance|cmmc|fedramp"],
       ["General IT / Technology Focus", "technology|information technology|\\bit\\b"]
     ]
   },
