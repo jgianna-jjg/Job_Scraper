@@ -1,10 +1,16 @@
-# 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-27 16:04 UTC*
+# 🟦 Indeed — IT & Cybersecurity Roles
+*Last updated: 2026-09-27 16:19 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**2 new role(s)** since last run · 2 total in last 24h
 
-### [As-Needed Environmental Compliance Monitor and Designated Biologist for BUOW - CA](https://www.indeed.com/viewjob?jk=1d3f2feb19f5123b) — Dudek
-- 📍 **Location:** Fresno, CA, US
-- 💰 **Salary:** $40–$53/hr
+### [Director, Information Technology - Connected Insurance Platforms](https://www.indeed.com/viewjob?jk=250707e72a7a5c75) — USAA
+- 📍 **Location:** Plano, TX, US
+- 💰 **Salary:** $143k–$274k/yr
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-25
+- 🕒 **Posted:** 2026-09-26
+
+### [Chief Technology Officer](https://www.indeed.com/viewjob?jk=7e85bfbfe9c9f043) — Unknown
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-26
