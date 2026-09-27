@@ -1,6 +1,11 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-09-27 21:54 UTC*
+*Last updated: 2026-09-27 22:41 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Trade Compliance Program Manager](https://www.indeed.com/viewjob?jk=d16930c3c2e8b579) — Husky Injection Molding
+- 📍 **Location:** Milton, VT, US
+- 💰 **Salary:** $110k–$142k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
