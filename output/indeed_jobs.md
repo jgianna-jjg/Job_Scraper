@@ -1,6 +1,6 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-09-27 19:54 UTC*
+*Last updated: 2026-09-27 20:39 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**0 new role(s)** since last run · 5 total in last 24h
 
 No new roles since the last run.
