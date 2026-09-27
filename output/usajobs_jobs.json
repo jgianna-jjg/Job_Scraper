@@ -1,1 +1,45 @@
-{"scraped_at": "2026-09-27 16:08 UTC", "total": 0, "new_count": 0, "jobs": [], "new_jobs": []}
+{
+  "scraped_at": "2026-09-27 16:22 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "U.S. Marine Corps",
+      "title": "CHIEF INFORMATION OFFICER, CIO NF5",
+      "location": "Quantico, Virginia",
+      "url": "https://www.usajobs.gov/job/885492400",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $170,000 Per year (NF 5)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "DHS Headquarters",
+      "title": "Chief Information Officer",
+      "location": "Arlington, Virginia",
+      "url": "https://www.usajobs.gov/job/883714800",
+      "date_posted": "2026-09-08",
+      "salary": "Starting at $190,300 Per year (DL 00)",
+      "ats": "USAJOBS"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "U.S. Marine Corps",
+      "title": "CHIEF INFORMATION OFFICER, CIO NF5",
+      "location": "Quantico, Virginia",
+      "url": "https://www.usajobs.gov/job/885492400",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $170,000 Per year (NF 5)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "DHS Headquarters",
+      "title": "Chief Information Officer",
+      "location": "Arlington, Virginia",
+      "url": "https://www.usajobs.gov/job/883714800",
+      "date_posted": "2026-09-08",
+      "salary": "Starting at $190,300 Per year (DL 00)",
+      "ats": "USAJOBS"
+    }
+  ]
+}
