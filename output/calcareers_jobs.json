@@ -1,1 +1,57 @@
-{"scraped_at": "2026-09-27 16:08 UTC", "total": 0, "new_count": 0, "jobs": [], "new_jobs": []}
+{
+  "scraped_at": "2026-09-27 16:17 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "State Treasurer's Office",
+      "title": "Chief Information Security Officer (CISO)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=507504",
+      "date_posted": "2026-08-13",
+      "salary": "$10349.00 - $12526.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Career Executive Assignment - Non Tenured, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Developmental Services - Headquarters",
+      "title": "Chief Information Security Officer",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532865",
+      "date_posted": "2026-09-24",
+      "salary": "$11388.00 - $13842.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "State Treasurer's Office",
+      "title": "Chief Information Security Officer (CISO)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=507504",
+      "date_posted": "2026-08-13",
+      "salary": "$10349.00 - $12526.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Career Executive Assignment - Non Tenured, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Developmental Services - Headquarters",
+      "title": "Chief Information Security Officer",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532865",
+      "date_posted": "2026-09-24",
+      "salary": "$11388.00 - $13842.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    }
+  ]
+}
