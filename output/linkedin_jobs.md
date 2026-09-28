@@ -1,23 +1,28 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-09-28 22:43 UTC*
+*Last updated: 2026-09-28 23:41 UTC*
 
-**4 new role(s)** since last run · 15 total in last 1h
+**5 new role(s)** since last run · 10 total in last 1h
 
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4471563303/) — ByaparMate | Your Business. Your Mate
+### [Vice President, Technology Operations](https://www.linkedin.com/jobs/view/4473028680/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $282,000.00/yr - $322,000.00/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Chief Digital and Information Officer](https://www.linkedin.com/jobs/view/4473029664/) — Veralto
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $500,000 - $575,000 USD per year
+- 🕒 **Posted:** 2026-09-28
+
+### [Director, Corporate IT](https://www.linkedin.com/jobs/view/4473030543/) — Swooped
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-28
 
-### [Director of Information Technology Consultant](https://www.linkedin.com/jobs/view/4471544998/) — Tucker Parker Smith Group (TPS Group)
+### [Horizon Practice Director (Remote, West Coast)](https://www.linkedin.com/jobs/view/4471234063/) — CrowdStrike
 - 📍 **Location:** Texas, United States
-- 💰 **Salary:** $115.00/hr - $125.00/hr
+- 💰 **Salary:** $130,000 - $175,000 per year
 - 🕒 **Posted:** 2026-09-28
 
-### [Director, Engineering, Product Experimentation and Evaluations](https://www.linkedin.com/jobs/view/4471556596/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $307000 - $427000
-- 🕒 **Posted:** 2026-09-28
-
-### [2025124 Technical Program Manager](https://www.linkedin.com/jobs/view/4473032015/) — Cisco
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $142,900.00 to $190,100.00
+### [Horizon Practice Director, Healthcare (Remote)](https://www.linkedin.com/jobs/view/4471226296/) — CrowdStrike
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $130,000 - $175,000 per year
 - 🕒 **Posted:** 2026-09-28
