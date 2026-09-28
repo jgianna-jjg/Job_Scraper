@@ -1,6 +1,10 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-09-28 00:59 UTC*
+*Last updated: 2026-09-28 01:42 UTC*
 
-**0 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Agile Program Manager](https://www.indeed.com/viewjob?jk=fe6dbdf180fe9220) — TRIAEM LLC
+- 📍 **Location:** Orlando, FL, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-27
