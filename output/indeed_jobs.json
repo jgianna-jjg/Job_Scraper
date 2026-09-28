@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28 01:42 UTC",
+  "scraped_at": "2026-09-28 01:56 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "The Fishin' Company",
@@ -76,24 +76,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "TRIAEM LLC",
-      "title": "Agile Program Manager",
-      "location": "Orlando, FL, US",
-      "url": "https://www.indeed.com/viewjob?jk=fe6dbdf180fe9220",
-      "direct_url": "http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=924988&cid=8077&locvalue=1043",
-      "company_url": "https://www.indeed.com/cmp/Triaem-LLC",
-      "date_posted": "2026-09-27",
-      "description": "Providing exceptional solutions for our customers requires proven experience and positive results. At **TRIAEM**, we care and invest in our people to ensure they are prepared to deliver superior services across a wide array of mission challenges. We specialize in systems engineering \\& architecture, scientific \\& technological analysis, data management, and cyber security solutions. With over ten years of experience supporting the US Government and International Partners, we know what it takes to ask the right questions, capture the right information, and deliver timely, accurate solutions.\n\n\n\nCaring and investing in our people means an environment where you can learn and grow while continuously being challenged. We offer industry\\-leading benefits and paid time off that allow you to focus on supporting our customers while maintaining the important work/life balance. If you are looking for a company that values you as an individual and welcomes your ideas, contributions, and experience, TRIAEM is the place for you!\n\n\n**Agile Program Manager \\- Future Opportunity**\n\n\n\n**Location:** Orlando, FL / Hybrid with travel as required\n\n\n**Clearance:** TS/SCI eligible\n\n\n**Employment Type:** Full\\-Time\n\n\n**Status:** Contingent upon contract award\n\n\n\nTRIAEM is seeking an experienced Agile Program Manager (APM) to lead a large, geographically dispersed professional services program supporting the U.S. Army. The APM will oversee enterprise Agile execution, workforce and capacity management, backlog governance, performance measurement, and continuous improvement across multiple teams and mission organizations.\n\n\n\nThe successful candidate will translate Government priorities into measurable work, allocate resources across teams as needs change, and use Jira and Agile performance data to manage execution in real time.\n\n\n**Required Qualifications**\n===========================\n\n\n* Minimum 5 years of qualifying program or project management experience, including at least 3 years within the last 5 years\n\n\n* Demonstrated experience scaling Agile across multiple teams\n\n\n* Current, recognized advanced Agile certification or credential\n\n\n* Hands\\-on experience using Jira to manage:\n\n\n* Backlogs and work prioritization\n\n\n* Resource and capacity allocation\n\n\n* Velocity and flow metrics\n\n\n* Performance dashboards\n\n\n* Demonstrated experience using Agile metrics to identify performance problems, implement corrective actions, and improve team or program performance\n\n\n* Experience leading cross\\-functional teams in a complex enterprise environment\n\n\n* Ability to communicate effectively with senior Government leadership, technical teams, and business stakeholders\n\n\n* TS/SCI eligibility\n\n\n**Key Responsibilities**\n========================\n\n\n* Serve as the senior program lead for Agile execution and delivery.\n\n\n* Lead and scale Agile practices across multiple teams and organizations.\n\n\n* Manage the enterprise backlog, capacity, resource allocation, and prioritization.\n\n\n* Establish and maintain Agile governance processes.\n\n\n* Monitor velocity, cycle time, capacity, flow, blockers, and other performance metrics.\n\n\n* Develop role\\-based Jira dashboards for executive, program, and team decision\\-making.\n\n\n* Use objective data to identify performance issues and implement measurable corrective actions.\n\n\n* Lead sprint and PI planning, backlog refinement, dependency management, risk management, and continuous improvement.\n\n\n* Coordinate technical and functional resources across geographically dispersed locations.\n\n\n* Support workforce continuity, staffing changes, onboarding, offboarding, and resource reallocation.\n\n\n* Lead executive program reviews and communicate status, risks, constraints, and recommended actions.\n\n\n* Ensure Agile processes support measurable mission outcomes.\n\n\n**Preferred Qualifications**\n============================\n\n\n* SAFe Practice Consultant (SPC), Release Train Engineer (RTE), or comparable advanced Agile credential\n\n\n* Experience supporting the DoD, Army, Intelligence Community, or other Federal agencies\n\n\n* Experience managing large, geographically dispersed professional services teams\n\n\n* Experience with Jira Align and Confluence\n\n\n* Experience managing Agile Release Trains, PI Planning, and enterprise transformation\n\n\n* Experience working with cleared personnel and highly technical, multidisciplinary teams\n\n\n* Familiarity with Government acquisition, systems engineering, cybersecurity, logistics, or mission support environments\n\n\n**What We Are Looking For**\n===========================\n\n\n\nWe are looking for someone who has operated Agile at scale. Strong candidates can give specific examples of using Jira data, capacity information, velocity, flow metrics, or dashboards to identify a problem, take corrective action, and achieve a measurable improvement.\n\n\n**Candidates should be prepared to discuss their hands\\-on Jira and Agile\\-at\\-scale experience during the interview process.**\n\n  \n\nTRIAEM LLC is an Equal Opportunity/Affirmative Action employer. All qualified candidates will receive consideration for employment without regard to disability, protected veteran status, race, color, sexual orientation/gender identity, religious creed, national origin, citizenship, marital status, sex, age, or genetic information. Applicants may be subject to a background investigation based on job requirements. TRIAEM Prohibits Discrimination and Harassment of Any Kind; we are committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at TRIAEM are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. TRIAEM will not tolerate discrimination or harassment based on any of these characteristics.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
