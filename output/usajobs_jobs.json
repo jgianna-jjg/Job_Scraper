@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-09-27 16:22 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-09-28 15:47 UTC",
+  "total": 6,
+  "new_count": 4,
   "jobs": [
+    {
+      "company": "Environmental Protection Agency",
+      "title": "Chief Information Officer",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/886502000",
+      "date_posted": "2026-09-28",
+      "salary": "Starting at $197,201 Per year (ES 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Education Headquarters",
+      "title": "Chief Information Security Officer AD-2210-00 (Senior Manager) FPL AD-00",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/886448400",
+      "date_posted": "2026-09-28",
+      "salary": "Starting at $179,436 Per year (AD 00)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "U.S. Marine Corps",
       "title": "CHIEF INFORMATION OFFICER, CIO NF5",
@@ -19,26 +37,62 @@
       "url": "https://www.usajobs.gov/job/883714800",
       "date_posted": "2026-09-08",
       "salary": "Starting at $190,300 Per year (DL 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Pharmacist (Medication Safety Officer - Facility Program Manager)",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/886381200",
+      "date_posted": "2026-09-25",
+      "salary": "Starting at $177,304 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Director of National Intelligence",
+      "title": "Program Manager - Transparency of Reciprocity Information System",
+      "location": "Bethesda, Maryland",
+      "url": "https://www.usajobs.gov/job/886254300",
+      "date_posted": "2026-09-24",
+      "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     }
   ],
   "new_jobs": [
     {
-      "company": "U.S. Marine Corps",
-      "title": "CHIEF INFORMATION OFFICER, CIO NF5",
-      "location": "Quantico, Virginia",
-      "url": "https://www.usajobs.gov/job/885492400",
-      "date_posted": "2026-09-18",
-      "salary": "Starting at $170,000 Per year (NF 5)",
+      "company": "Environmental Protection Agency",
+      "title": "Chief Information Officer",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/886502000",
+      "date_posted": "2026-09-28",
+      "salary": "Starting at $197,201 Per year (ES 00)",
       "ats": "USAJOBS"
     },
     {
-      "company": "DHS Headquarters",
-      "title": "Chief Information Officer",
-      "location": "Arlington, Virginia",
-      "url": "https://www.usajobs.gov/job/883714800",
-      "date_posted": "2026-09-08",
-      "salary": "Starting at $190,300 Per year (DL 00)",
+      "company": "Department of Education Headquarters",
+      "title": "Chief Information Security Officer AD-2210-00 (Senior Manager) FPL AD-00",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/886448400",
+      "date_posted": "2026-09-28",
+      "salary": "Starting at $179,436 Per year (AD 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Pharmacist (Medication Safety Officer - Facility Program Manager)",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/886381200",
+      "date_posted": "2026-09-25",
+      "salary": "Starting at $177,304 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Director of National Intelligence",
+      "title": "Program Manager - Transparency of Reciprocity Information System",
+      "location": "Bethesda, Maryland",
+      "url": "https://www.usajobs.gov/job/886254300",
+      "date_posted": "2026-09-24",
+      "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     }
   ]
