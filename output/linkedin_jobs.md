@@ -1,33 +1,45 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-09-28 17:43 UTC*
+*Last updated: 2026-09-28 18:48 UTC*
 
-**6 new role(s)** since last run · 11 total in last 1h
+**9 new role(s)** since last run · 16 total in last 1h
 
-### [Senior Director of Cybersecurity Architecture](https://www.linkedin.com/jobs/view/4470895095/) — HRUCKUS
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $90.00/hr - $110.00/hr
+### [Head of IT Strategy and Transformation](https://www.linkedin.com/jobs/view/4471518973/) — ICW Group
+- 📍 **Location:** United States
+- 💰 **Salary:** $171,301.18 - $306,632.68
 - 🕒 **Posted:** 2026-09-28
 
-### [Senior Vice President, Technology](https://www.linkedin.com/jobs/view/4470887799/) — Integrity
+### [Director, IT](https://www.linkedin.com/jobs/view/4471212064/) — Quarterhill Inc.
+- 📍 **Location:** Texas, United States
+- 🕒 **Posted:** 2026-09-28
+
+### [Program Manager for Cyber Security and Reporting Programs-Director Level](https://www.linkedin.com/jobs/view/4472788122/) — Shulman Fleming & Partners
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-28
+
+### [Senior Vice President, Technology](https://www.linkedin.com/jobs/view/4472787425/) — Integrity
 - 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-28
 
-### [Director, Domain Architect - Global Operational Technology](https://www.linkedin.com/jobs/view/4470884961/) — PepsiCo
+### [Cybersecurity - Identity and Access Management - Sr Manager](https://www.linkedin.com/jobs/view/4472770871/) — PwC
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $124,000 - $280,000
+- 🕒 **Posted:** 2026-09-28
+
+### [Cybersecurity - Identity and Access Management - Sr Manager](https://www.linkedin.com/jobs/view/4472778635/) — PwC
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $132,200 - $262,400
+- 💰 **Salary:** $124,000 - $280,000
 - 🕒 **Posted:** 2026-09-28
 
-### [Head of AI, Digital and Technology Compliance](https://www.linkedin.com/jobs/view/4471503980/) — Enstar Group
-- 📍 **Location:** United States
-- 💰 **Salary:** $142,000-$165,000
+### [Cybersecurity - Identity and Access Management - Sr Manager](https://www.linkedin.com/jobs/view/4472784203/) — PwC
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $124,000 - $280,000
 - 🕒 **Posted:** 2026-09-28
 
-### [Senior Manager, Technology & Security Compliance](https://www.linkedin.com/jobs/view/4471528140/) — Altria
-- 📍 **Location:** United States
-- 💰 **Salary:** $132,500.00/yr - $202,100.00/yr
+### [Cybersecurity - Identity and Access Management - Sr Manager](https://www.linkedin.com/jobs/view/4472779518/) — PwC
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $124,000 - $280,000
 - 🕒 **Posted:** 2026-09-28
 
-### [Vice President, Product & Technology PMO](https://www.linkedin.com/jobs/view/4471504988/) — Powerfleet
-- 📍 **Location:** United States
-- 💰 **Salary:** $230,000- $250,000 USD
+### [Director, TA Infrastructure](https://www.linkedin.com/jobs/view/4472079008/) — ServiceNow
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-28
