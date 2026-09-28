@@ -1,45 +1,30 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-09-28 18:48 UTC*
+*Last updated: 2026-09-28 19:44 UTC*
 
-**9 new role(s)** since last run · 16 total in last 1h
+**6 new role(s)** since last run · 14 total in last 1h
 
-### [Head of IT Strategy and Transformation](https://www.linkedin.com/jobs/view/4471518973/) — ICW Group
+### [Senior Manager, Global Digital & Technology Systems Engineering](https://www.linkedin.com/jobs/view/4471534538/) — BeOne Medicines
 - 📍 **Location:** United States
-- 💰 **Salary:** $171,301.18 - $306,632.68
+- 💰 **Salary:** $136,900.00 - $181,900.00 annually
 - 🕒 **Posted:** 2026-09-28
 
-### [Director, IT](https://www.linkedin.com/jobs/view/4471212064/) — Quarterhill Inc.
-- 📍 **Location:** Texas, United States
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4471537529/) — NU Advisory Partners
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-28
 
-### [Program Manager for Cyber Security and Reporting Programs-Director Level](https://www.linkedin.com/jobs/view/4472788122/) — Shulman Fleming & Partners
-- 📍 **Location:** New York, NY
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4472760049/) — Fidelity National Information Services, Inc.
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-28
 
-### [Senior Vice President, Technology](https://www.linkedin.com/jobs/view/4472787425/) — Integrity
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-28
-
-### [Cybersecurity - Identity and Access Management - Sr Manager](https://www.linkedin.com/jobs/view/4472770871/) — PwC
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $124,000 - $280,000
-- 🕒 **Posted:** 2026-09-28
-
-### [Cybersecurity - Identity and Access Management - Sr Manager](https://www.linkedin.com/jobs/view/4472778635/) — PwC
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $124,000 - $280,000
-- 🕒 **Posted:** 2026-09-28
-
-### [Cybersecurity - Identity and Access Management - Sr Manager](https://www.linkedin.com/jobs/view/4472784203/) — PwC
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $124,000 - $280,000
-- 🕒 **Posted:** 2026-09-28
-
-### [Cybersecurity - Identity and Access Management - Sr Manager](https://www.linkedin.com/jobs/view/4472779518/) — PwC
+### [DHS Program Manager, Cybersecurity](https://www.linkedin.com/jobs/view/4473005026/) — OneZero Solutions
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $124,000 - $280,000
 - 🕒 **Posted:** 2026-09-28
 
-### [Director, TA Infrastructure](https://www.linkedin.com/jobs/view/4472079008/) — ServiceNow
-- 📍 **Location:** Austin, TX
+### [IT Audit Director – Cyber, AI and Cloud](https://www.linkedin.com/jobs/view/4471533684/) — emergiTEL
+- 📍 **Location:** Washington DC-Baltimore Area
+- 🕒 **Posted:** 2026-09-28
+
+### [Sr. IT Project Manager](https://www.linkedin.com/jobs/view/4471217128/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $150,000 - $160,000
 - 🕒 **Posted:** 2026-09-28
