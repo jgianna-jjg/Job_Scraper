@@ -1,6 +1,10 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-09-28 02:57 UTC*
+*Last updated: 2026-09-28 03:43 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-No new roles since the last run.
+### [Physical Security Program Manager](https://www.indeed.com/viewjob?jk=aa34a70b9d068ba4) — Atriade
+- 📍 **Location:** Hoboken, NJ, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
