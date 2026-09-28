@@ -1,6 +1,6 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-09-28 01:33 UTC*
+*Last updated: 2026-09-28 02:31 UTC*
 
-**0 new role(s)** since last run · 8 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
 No new roles since the last run.
