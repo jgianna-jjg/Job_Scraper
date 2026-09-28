@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28 03:43 UTC",
+  "scraped_at": "2026-09-28 03:58 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "The Fishin' Company",
@@ -58,24 +58,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Atriade",
-      "title": "Physical Security Program Manager",
-      "location": "Hoboken, NJ, US",
-      "url": "https://www.indeed.com/viewjob?jk=aa34a70b9d068ba4",
-      "direct_url": "http://www.indeed.com/job/physical-security-program-manager-aa34a70b9d068ba4",
-      "company_url": "https://www.indeed.com/cmp/Atriade-2",
-      "date_posted": "2026-09-28",
-      "description": "We are looking for an experienced program manager to provide technology project management, change management, risk and issue tracking and remediation for a global technology rollout project. Daily responsibilities include:\n\n**Job Description \\& Responsibilities**\n\n* Manage rollout of physical security programs at customer sites\n* Plan, set commitments and act to deliver strategic programs\n* Manage a globally diverse set of stakeholders and project contributors\n* Drive alignment with leadership on project goals, budget, schedule and execution\n* Communicate and escalate issues to appropriate stakeholders\n* Drive budgeting and tracking of equipment delivery, installations, programming and testing\n* Create project plan with schedule, communication, and change management plans with project team, stakeholders, and sponsor(s)\n* Run, coordinate, and track meetings, deadlines, tasks, and milestones through complete project lifecycle\n* Manage tasks, schedules, issues and changes\n* Work with internal teams on solution development and project status\n* Identify risks and create mitigation and strategy plan with frequent communication of resolution status to project stakeholders\n* Coordinate proof of concepts, implementation of software, testing of sensors, and integrations\n* Manage and lead solution demos, testing, and implementation\n\n**Requirements**\n\n* 5\\+ years managing complex multifaceted projects with high level executive visibility\n* Bachelor's degree in project management or technology fields\n* Project management trained or certified\n* Background check verification\n* Authorized to work in the US\n\n**Additional Desired Experience**\n\n* Knowledge of physical security systems and applications, such as access control, video management and biometric systems\n* Identity and access management\n\nJob Type: Full\\-time\n\nPay: From $120,000\\.00 per year\n\nBenefits:\n\n* Dental insurance\n* Health insurance\n* Paid time off\n* Retirement plan\n* Vision insurance\n\nApplication Question(s):\n\n* Please describe your experience in managing technology deployment projects for physical installations, such as offices, data centers, hospitals, universities, etc.?\n* Please provide your experience with physical security systems and technologies\n\nExperience:\n\n* Project Management: 5 years (Required)\n\nLicense/Certification:\n\n* PMP (Required)\n\nWork Location: In person",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
