@@ -1,16 +1,14 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-09-29 01:39 UTC*
+*Last updated: 2026-09-29 02:36 UTC*
 
-**3 new role(s)** since last run · 17 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Vice President, Technology and Product (Remote)](https://www.linkedin.com/jobs/view/4473058142/) — M3 USA
-- 📍 **Location:** United States
+### [Managing Director- Cybersecurity](https://www.linkedin.com/jobs/view/4471576897/) — PPT Consulting
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $200,000–$280,000
 - 🕒 **Posted:** 2026-09-29
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4473055112/) — Phillip Capital Inc..
+### [Senior Project Manager, IT Services](https://www.linkedin.com/jobs/view/4473052583/) — GFT
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-29
-
-### [Executive Vice President of Information Technology](https://www.linkedin.com/jobs/view/4471582358/) — Warburg Pincus.
-- 📍 **Location:** United States
+- 💰 **Salary:** $140,000 - $150,000
 - 🕒 **Posted:** 2026-09-29
