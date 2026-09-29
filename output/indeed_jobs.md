@@ -1,53 +1,42 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-09-29 01:01 UTC*
+*Last updated: 2026-09-29 01:57 UTC*
 
-**7 new role(s)** since last run · 37 total in last 24h
+**6 new role(s)** since last run · 41 total in last 24h
 
-### [Customer Experience, Program Manager | West Region](https://www.indeed.com/viewjob?jk=a838b708d9968de2) — iRhythm Technologies
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $115k–$149k/yr
+### [Director of Information Technology](https://www.indeed.com/viewjob?jk=1c436e52edc92107) — Tenna
+- 📍 **Location:** New Hope, PA, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Customer Experience, Program Manager | West Region](https://www.indeed.com/viewjob?jk=0122c5c2e485a9bb) — iRhythm Technologies
-- 📍 **Location:** CT, US
-- 💰 **Salary:** $115k–$149k/yr
-- **Work mode:** Remote in-state eligible
+### [Director of Technology Systems](https://www.indeed.com/viewjob?jk=9648a2a3ba8bb1af) — GATEWAY SERVICE GROUP
+- 📍 **Location:** St. Louis, MO, US
+- 💰 **Salary:** $160k–$180k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Customer Experience, Program Manager | West Region](https://www.indeed.com/viewjob?jk=9366fb1312b0aed3) — iRhythm Technologies
-- 📍 **Location:** PA, US
-- 💰 **Salary:** $115k–$149k/yr
-- **Work mode:** Remote in-state eligible
+### [Director of Technology Systems](https://www.indeed.com/viewjob?jk=19f238f11b02e9a6) — GATEWAY SERVICE GROUP
+- 📍 **Location:** Herndon, VA, US
+- 💰 **Salary:** $160k–$180k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Customer Experience, Program Manager | West Region](https://www.indeed.com/viewjob?jk=3b9c8af3ac281bfc) — iRhythm Technologies
-- 📍 **Location:** MA, US
-- 💰 **Salary:** $115k–$149k/yr
-- **Work mode:** Remote in-state eligible
+### [Senior Technical Program Manager, Program Protection](https://www.indeed.com/viewjob?jk=4bb65cad003b46d9) — Anduril
+- 📍 **Location:** Costa Mesa, CA, US
+- 💰 **Salary:** $166k–$220k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
 
-### [Customer Experience, Program Manager | West Region](https://www.indeed.com/viewjob?jk=f9d81f5242646230) — iRhythm Technologies
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $115k–$149k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
+### [Windchill Program Manager](https://www.indeed.com/viewjob?jk=e8c4007f15b85242) — Infosys
+- 📍 **Location:** US
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-28
 
-### [Customer Experience, Program Manager | West Region](https://www.indeed.com/viewjob?jk=8198c60d08e820ca) — iRhythm Technologies
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $115k–$149k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-28
-
-### [Customer Experience, Program Manager | West Region](https://www.indeed.com/viewjob?jk=2c179d788c91ffbb) — iRhythm Technologies
-- 📍 **Location:** NJ, US
-- 💰 **Salary:** $115k–$149k/yr
-- **Work mode:** Remote in-state eligible
+### [Technical Program Manager](https://www.indeed.com/viewjob?jk=6cac4f2dbf0219b3) — KBR
+- 📍 **Location:** Beavercreek, OH, US
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-28
