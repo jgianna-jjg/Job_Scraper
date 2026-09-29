@@ -1,55 +1,64 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-09-29 15:48 UTC*
+*Last updated: 2026-09-29 17:18 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**14 new role(s)** since last run · 20 total in last 1h
 
-### [Chief Technology Officer (CTO)](https://www.linkedin.com/jobs/view/4460057222/) — LHH
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $200,000–$230,000
-- 🕒 **Posted:** 2026-09-29
-
-### [Director, Technology Strategy & Execution (IT Project Management Office)](https://www.linkedin.com/jobs/view/4471728854/) — Cardinal Health
+### [Director of Technology Execution](https://www.linkedin.com/jobs/view/4471757300/) — Loop Capital Markets
 - 📍 **Location:** United States
-- 💰 **Salary:** $118,200 - $199,980 USD
 - 🕒 **Posted:** 2026-09-29
 
-### [Growth Platforms - Deloitte Microsoft Technology Practice - Global Sale & Solution Center - Architect, Senior Manager - C_MAT](https://www.linkedin.com/jobs/view/4473243520/) — Deloitte
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $141,200-$278,300
+### [Chief Technology Officer (CTO) — Venture Studio Role](https://www.linkedin.com/jobs/view/4473278590/) — Sisu
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-29
 
-### [Growth Platforms - Deloitte Microsoft Technology Practice - Global Sale & Solution Center - Architect, Senior Manager - C_MAT](https://www.linkedin.com/jobs/view/4473234777/) — Deloitte
-- 📍 **Location:** Greater Indianapolis
-- 💰 **Salary:** $141,200-$278,300
+### [Senior Manager, Cybersecurity, Metrics & Reporting - Remote](https://www.linkedin.com/jobs/view/4465790175/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
 - 🕒 **Posted:** 2026-09-29
 
-### [Growth Platforms - Deloitte Microsoft Technology Practice - Global Sale & Solution Center - Architect, Senior Manager - C_MAT](https://www.linkedin.com/jobs/view/4473247443/) — Deloitte
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $141,200-$278,300
+### [Senior Manager, Cybersecurity, CTEM & Vulnerability Intelligence - Remote](https://www.linkedin.com/jobs/view/4466101096/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
 - 🕒 **Posted:** 2026-09-29
 
-### [Growth Platforms - Deloitte Microsoft Technology Practice - Global Sale & Solution Center - Architect, Senior Manager - C_MAT](https://www.linkedin.com/jobs/view/4473231984/) — Deloitte
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $141,200-$278,300
+### [Senior Manager, Cybersecurity, AI SOC & Crisis Management - Remote](https://www.linkedin.com/jobs/view/4471919612/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
 - 🕒 **Posted:** 2026-09-29
 
-### [Growth Platforms - Deloitte Microsoft Technology Practice - Global Sale & Solution Center - Architect, Senior Manager - C_MAT](https://www.linkedin.com/jobs/view/4473249097/) — Deloitte
+### [Senior Cybersecurity Project Manager (PMO & Governance) 5623](https://www.linkedin.com/jobs/view/4447303097/) — Tier4 Group
+- 📍 **Location:** Greater Houston
+- 🕒 **Posted:** 2026-09-29
+
+### [GRC, Data Privacy & Technical Cybersecurity SME - Senior Manager](https://www.linkedin.com/jobs/view/4473272855/) — CFGI
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-29
+
+### [Vice President Information Technology](https://www.linkedin.com/jobs/view/4473290511/) — Orix Real Estate Korea
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-29
+
+### [Head of Trade and Working Capital Technology MD, C16](https://www.linkedin.com/jobs/view/4471921367/) — Citi
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $141,200-$278,300
+- 💰 **Salary:** $250,000.00 - $500,000.00
 - 🕒 **Posted:** 2026-09-29
 
-### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4473279493/) — OMEGA GESTION DE INVERSIONES SGIIC SA
+### [Senior Director, IT Compliance & Governance (Contract)](https://www.linkedin.com/jobs/view/4473296197/) — BioSpace
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-29
 
-### [Vice President - Technology](https://www.linkedin.com/jobs/view/4369491292/) — Endress+Hauser Group
-- 📍 **Location:** Indiana, United States
+### [Head of Technology & Systems](https://www.linkedin.com/jobs/view/4471920581/) — Bin There Dump That
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-29
 
-### [Director, Digital Marketing Technology](https://www.linkedin.com/jobs/view/4444493320/) — CFS Brands
-- 📍 **Location:** Oklahoma City, OK
+### [Chief Technology Officer / Co-Founder (Equity)](https://www.linkedin.com/jobs/view/4471538819/) — Paladin's Keep, Inc.
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-29
 
-### [Director of Ecommerce & Shopify Technology/DTC Beauty](https://www.linkedin.com/jobs/view/4465321988/) — Londontown, Inc.
+### [Global Automation Engineering & Technology Head](https://www.linkedin.com/jobs/view/4473273932/) — BioSpace
+- 📍 **Location:** King of Prussia, PA
+- 🕒 **Posted:** 2026-09-29
+
+### [Senior Director of Infrastructure Technology](https://www.linkedin.com/jobs/view/4471917920/) — Banque Nationale de Développement Agricole-BNDA
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-29
