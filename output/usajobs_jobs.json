@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-09-28 15:47 UTC",
-  "total": 6,
+  "scraped_at": "2026-09-29 15:49 UTC",
+  "total": 9,
   "new_count": 4,
   "jobs": [
+    {
+      "company": "Export-Import Bank of the United States",
+      "title": "Supervisory IT Program Manager (Policy and Planning)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/886712600",
+      "date_posted": "2026-09-29",
+      "salary": "Starting at $169,279 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Environmental Protection Agency",
       "title": "Chief Information Officer",
@@ -19,6 +28,33 @@
       "url": "https://www.usajobs.gov/job/886448400",
       "date_posted": "2026-09-28",
       "salary": "Starting at $179,436 Per year (AD 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Facility Program Manager - Informatics",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/886747500",
+      "date_posted": "2026-09-29",
+      "salary": "Starting at $127,068 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Defense Information Systems Agency",
+      "title": "SUPERVISORY IT PROGRAM MANAGER (PLCYPLN)",
+      "location": "Fort Meade, Maryland",
+      "url": "https://www.usajobs.gov/job/886525000",
+      "date_posted": "2026-09-29",
+      "salary": "Starting at $169,279 Per year (GG 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary of Transportation",
+      "title": "Supervisory Program Manager (Director, University Transportation Centers Program) (Open to both U.S. Citizens and Federal Employees)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/886560000",
+      "date_posted": "2026-09-28",
+      "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
@@ -40,15 +76,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Pharmacist (Medication Safety Officer - Facility Program Manager)",
-      "location": "Palo Alto, California",
-      "url": "https://www.usajobs.gov/job/886381200",
-      "date_posted": "2026-09-25",
-      "salary": "Starting at $177,304 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Office of the Director of National Intelligence",
       "title": "Program Manager - Transparency of Reciprocity Information System",
       "location": "Bethesda, Maryland",
@@ -60,38 +87,38 @@
   ],
   "new_jobs": [
     {
-      "company": "Environmental Protection Agency",
-      "title": "Chief Information Officer",
+      "company": "Export-Import Bank of the United States",
+      "title": "Supervisory IT Program Manager (Policy and Planning)",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/886502000",
-      "date_posted": "2026-09-28",
-      "salary": "Starting at $197,201 Per year (ES 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Education Headquarters",
-      "title": "Chief Information Security Officer AD-2210-00 (Senior Manager) FPL AD-00",
-      "location": "San Francisco, California",
-      "url": "https://www.usajobs.gov/job/886448400",
-      "date_posted": "2026-09-28",
-      "salary": "Starting at $179,436 Per year (AD 00)",
+      "url": "https://www.usajobs.gov/job/886712600",
+      "date_posted": "2026-09-29",
+      "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Pharmacist (Medication Safety Officer - Facility Program Manager)",
-      "location": "Palo Alto, California",
-      "url": "https://www.usajobs.gov/job/886381200",
-      "date_posted": "2026-09-25",
-      "salary": "Starting at $177,304 Per year (GS 13)",
+      "title": "Facility Program Manager - Informatics",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/886747500",
+      "date_posted": "2026-09-29",
+      "salary": "Starting at $127,068 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Office of the Director of National Intelligence",
-      "title": "Program Manager - Transparency of Reciprocity Information System",
-      "location": "Bethesda, Maryland",
-      "url": "https://www.usajobs.gov/job/886254300",
-      "date_posted": "2026-09-24",
+      "company": "Defense Information Systems Agency",
+      "title": "SUPERVISORY IT PROGRAM MANAGER (PLCYPLN)",
+      "location": "Fort Meade, Maryland",
+      "url": "https://www.usajobs.gov/job/886525000",
+      "date_posted": "2026-09-29",
+      "salary": "Starting at $169,279 Per year (GG 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary of Transportation",
+      "title": "Supervisory Program Manager (Director, University Transportation Centers Program) (Open to both U.S. Citizens and Federal Employees)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/886560000",
+      "date_posted": "2026-09-28",
       "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     }
