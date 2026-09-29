@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-28 16:21 UTC",
-  "total": 2,
+  "scraped_at": "2026-09-29 16:21 UTC",
+  "total": 3,
   "new_count": 0,
   "jobs": [
     {
@@ -26,6 +26,18 @@
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Franchise Tax Board",
+      "title": "Exam, Classification and Hiring Program Manager",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531926",
+      "date_posted": "2026-09-14",
+      "salary": "$8452.00 - $11114.00",
+      "ats": "CalCareers",
+      "telework": "In Office",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "On-site"
     }
   ],
   "new_jobs": []
