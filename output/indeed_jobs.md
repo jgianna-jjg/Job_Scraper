@@ -1,32 +1,25 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-09-30 16:01 UTC*
+*Last updated: 2026-09-30 16:58 UTC*
 
-**4 new role(s)** since last run · 27 total in last 24h
+**3 new role(s)** since last run · 23 total in last 24h
 
-### [Technical Program Manager, Tech Integration, Global Energy Sustainability & Automation (GESA)](https://www.indeed.com/viewjob?jk=98f444e48e248ff2) — Amazon.com
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $121k–$189k/yr
+### [Marriage and Family Therapist (Program Manager)](https://www.indeed.com/viewjob?jk=ef326406398671cd) — US Department of Veterans Affairs
+- 📍 **Location:** Lake Havasu City, AZ, US
+- 💰 **Salary:** $109k–$141k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-30
 
-### [Technical Program Manager, Tech Integration, Global Energy Sustainability & Automation (GESA)](https://www.indeed.com/viewjob?jk=a44fdba77227c754) — Amazon.com
-- 📍 **Location:** Bellevue, WA, US
-- 💰 **Salary:** $121k–$189k/yr
+### [Psychology Program Manager](https://www.indeed.com/viewjob?jk=473403a7268f0ebe) — US Department of Veterans Affairs
+- 📍 **Location:** Lake Havasu City, AZ, US
+- 💰 **Salary:** $128k–$167k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-30
 
-### [Technical Program Manager, Tech Integration, Global Energy Sustainability & Automation (GESA)](https://www.indeed.com/viewjob?jk=3dc533ee34eab4b7) — Amazon.com
-- 📍 **Location:** Austin, TX, US
-- 💰 **Salary:** $121k–$189k/yr
+### [Supervisory Program Manager](https://www.indeed.com/viewjob?jk=bcfb68be01183947) — Unknown
+- 📍 **Location:** Anchorage, AK, US
+- 💰 **Salary:** $167k–$197k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
-
-### [Technical Program Manager, Tech Integration, Global Energy Sustainability & Automation (GESA)](https://www.indeed.com/viewjob?jk=b35158088d9bdf27) — Amazon.com
-- 📍 **Location:** Nashville, TN, US
-- 💰 **Salary:** $121k–$189k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-21
+- **Job type:** parttime, fulltime
+- 🕒 **Posted:** 2026-09-30
