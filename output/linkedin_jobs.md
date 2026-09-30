@@ -1,49 +1,37 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-09-30 16:49 UTC*
+*Last updated: 2026-09-30 18:23 UTC*
 
-**10 new role(s)** since last run · 17 total in last 1h
+**7 new role(s)** since last run · 16 total in last 1h
 
-### [Senior Manager, Cybersecurity, AI SOC & Crisis Management - Remote](https://www.linkedin.com/jobs/view/4471919612/) — Stryker
-- 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
+### [VP, Technology & AI](https://www.linkedin.com/jobs/view/4463107884/) — Woodruff
+- 📍 **Location:** Missouri, United States
 - 🕒 **Posted:** 2026-09-30
 
-### [Senior Cybersecurity Manager](https://www.linkedin.com/jobs/view/4473912283/) — Orion Groups
-- 📍 **Location:** United States
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
+### [Senior Manager, Tax Technology Consulting](https://www.linkedin.com/jobs/view/4463881405/) — Ryan
+- 📍 **Location:** King of Prussia, PA
+- 💰 **Salary:** $158,000.00 - $211,750.00
 - 🕒 **Posted:** 2026-09-30
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4473915320/) — Innovas
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Director of IT Infrastructure](https://www.linkedin.com/jobs/view/4472611789/) — Smart Capital
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Vice President, Technology Audit Leader, Application Technology](https://www.linkedin.com/jobs/view/4455938445/) — BNY
+### [Vice President, Cyber, Technology and Information Security (CTIS) Risk Oversight Lead](https://www.linkedin.com/jobs/view/4461307421/) — Morgan Stanley
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-30
 
-### [Director, Global Security Technology (Remote)](https://www.linkedin.com/jobs/view/4467179138/) — Stryker
-- 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Director of IT Services](https://www.linkedin.com/jobs/view/4472629025/) — Agribank Securities Corporation (Agriseco)
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-30
-
-### [Finance Technology Business Architect, Senior Vice President](https://www.linkedin.com/jobs/view/4472304903/) — Citi
+### [Director, Development](https://www.linkedin.com/jobs/view/4464918604/) — ICE
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $176,720.00 - $265,080.00
+- 💰 **Salary:** $215,000 - 285,000
 - 🕒 **Posted:** 2026-09-30
 
-### [Product Management Lead- Director- Commercial Technology & Innovation](https://www.linkedin.com/jobs/view/4455530468/) — PwC
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $155,000 - $410,000
+### [Senior Technology Project Manager - Enterprise Technology PMO](https://www.linkedin.com/jobs/view/4446110257/) — Maximus
+- 📍 **Location:** United States
+- 💰 **Salary:** $140,000.00 - $160,000.00
 - 🕒 **Posted:** 2026-09-30
 
-### [Senior Program Manager, Secure Network Design , WWOS Global Solution](https://www.linkedin.com/jobs/view/4455925103/) — Amazon
-- 📍 **Location:** Austin, TX
+### [Senior Manager, Tax Technology Consulting](https://www.linkedin.com/jobs/view/4463882430/) — Ryan
+- 📍 **Location:** Albany, New York Metropolitan Area
+- 💰 **Salary:** $158,000.00 - $211,750.00
+- 🕒 **Posted:** 2026-09-30
+
+### [Director of Information Technology](https://www.linkedin.com/jobs/view/4472324747/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-09-30
