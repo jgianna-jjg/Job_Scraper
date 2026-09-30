@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29 15:49 UTC",
-  "total": 9,
+  "scraped_at": "2026-09-30 15:50 UTC",
+  "total": 11,
   "new_count": 4,
   "jobs": [
     {
@@ -31,30 +31,21 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Facility Program Manager - Informatics",
-      "location": "Iowa City, Iowa",
-      "url": "https://www.usajobs.gov/job/886747500",
-      "date_posted": "2026-09-29",
-      "salary": "Starting at $127,068 Per year (GS 13)",
+      "company": "Defense Health Agency",
+      "title": "Supervisory Program Manager",
+      "location": "Fort Detrick, Maryland",
+      "url": "https://www.usajobs.gov/job/886845400",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $143,913 Per year (NH 4)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Defense Information Systems Agency",
-      "title": "SUPERVISORY IT PROGRAM MANAGER (PLCYPLN)",
-      "location": "Fort Meade, Maryland",
-      "url": "https://www.usajobs.gov/job/886525000",
-      "date_posted": "2026-09-29",
-      "salary": "Starting at $169,279 Per year (GG 15)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Secretary of Transportation",
-      "title": "Supervisory Program Manager (Director, University Transportation Centers Program) (Open to both U.S. Citizens and Federal Employees)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/886560000",
-      "date_posted": "2026-09-28",
-      "salary": "Starting at $169,279 Per year (GS 15)",
+      "company": "Customs and Border Protection",
+      "title": "Program Manager (Construction Project Manager)",
+      "location": "Aliso Viejo, California",
+      "url": "https://www.usajobs.gov/job/886482600",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $106,437 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
@@ -76,23 +67,21 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Office of the Director of National Intelligence",
-      "title": "Program Manager - Transparency of Reciprocity Information System",
-      "location": "Bethesda, Maryland",
-      "url": "https://www.usajobs.gov/job/886254300",
-      "date_posted": "2026-09-24",
-      "salary": "Starting at $169,279 Per year (GS 15)",
+      "company": "Veterans Health Administration",
+      "title": "Psychology Program Manager",
+      "location": "Lake Havasu City, Arizona",
+      "url": "https://www.usajobs.gov/job/886959400",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $128,473 Per year (GS 14)",
       "ats": "USAJOBS"
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "company": "Export-Import Bank of the United States",
-      "title": "Supervisory IT Program Manager (Policy and Planning)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/886712600",
-      "date_posted": "2026-09-29",
-      "salary": "Starting at $169,279 Per year (GS 15)",
+      "company": "Department of Energy Headquarters",
+      "title": "Supervisory Program Manager",
+      "location": "Anchorage, Alaska",
+      "url": "https://www.usajobs.gov/job/886919000",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $167,282 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
@@ -105,21 +94,50 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Defense Information Systems Agency",
-      "title": "SUPERVISORY IT PROGRAM MANAGER (PLCYPLN)",
-      "location": "Fort Meade, Maryland",
-      "url": "https://www.usajobs.gov/job/886525000",
-      "date_posted": "2026-09-29",
-      "salary": "Starting at $169,279 Per year (GG 15)",
+      "company": "Office of the Director of National Intelligence",
+      "title": "Program Manager - Transparency of Reciprocity Information System",
+      "location": "Bethesda, Maryland",
+      "url": "https://www.usajobs.gov/job/886254300",
+      "date_posted": "2026-09-24",
+      "salary": "Starting at $169,279 Per year (GS 15)",
+      "ats": "USAJOBS"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Defense Health Agency",
+      "title": "Supervisory Program Manager",
+      "location": "Fort Detrick, Maryland",
+      "url": "https://www.usajobs.gov/job/886845400",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $143,913 Per year (NH 4)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Office of the Secretary of Transportation",
-      "title": "Supervisory Program Manager (Director, University Transportation Centers Program) (Open to both U.S. Citizens and Federal Employees)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/886560000",
-      "date_posted": "2026-09-28",
-      "salary": "Starting at $169,279 Per year (GS 15)",
+      "company": "Customs and Border Protection",
+      "title": "Program Manager (Construction Project Manager)",
+      "location": "Aliso Viejo, California",
+      "url": "https://www.usajobs.gov/job/886482600",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $106,437 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Psychology Program Manager",
+      "location": "Lake Havasu City, Arizona",
+      "url": "https://www.usajobs.gov/job/886959400",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $128,473 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Energy Headquarters",
+      "title": "Supervisory Program Manager",
+      "location": "Anchorage, Alaska",
+      "url": "https://www.usajobs.gov/job/886919000",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $167,282 Per year (GS 15)",
       "ats": "USAJOBS"
     }
   ]
