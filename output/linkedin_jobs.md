@@ -1,44 +1,39 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-09-30 03:46 UTC*
+*Last updated: 2026-09-30 15:49 UTC*
 
 **8 new role(s)** since last run · 8 total in last 1h
 
-### [VP, Information Technology | QSR](https://www.linkedin.com/jobs/view/4473595328/) — Restaurant Zone Recruiting
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Director, IT TMT M&A - Due Diligence, Integration and Separation - Strategy](https://www.linkedin.com/jobs/view/4471983892/) — KPMG US
+### [Director, Operational Technology (OT)](https://www.linkedin.com/jobs/view/4455775699/) — Honeywell Technologies
 - 📍 **Location:** Houston, TX
-- 💰 **Salary:** $191140 - $370990 K
+- 💰 **Salary:** $177,000 - $221,000
 - 🕒 **Posted:** 2026-09-30
 
-### [Director, IT TMT M&A - Due Diligence, Integration and Separation - Strategy](https://www.linkedin.com/jobs/view/4472300171/) — KPMG US
+### [Senior Director of Corporate IT](https://www.linkedin.com/jobs/view/4473900612/) — NAM A BANK
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-30
+
+### [Technology Strategy Senior Manager](https://www.linkedin.com/jobs/view/4463545257/) — Lenovo
+- 📍 **Location:** North Carolina, United States
+- 🕒 **Posted:** 2026-09-30
+
+### [Sr. Manager, Technology Risk Management (Cyber Threat & Insider Risk)](https://www.linkedin.com/jobs/view/4472197149/) — Charles Schwab
 - 📍 **Location:** Austin, TX
-- 💰 **Salary:** $191140 - $370990 K
+- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Technology Strategy Principal Director, Banking & Capital Markets](https://www.linkedin.com/jobs/view/4468512613/) — Accenture
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,900 to $387,800
+### [Sr. Manager, Technology Risk Management (Cyber Threat & Insider Risk)](https://www.linkedin.com/jobs/view/4472185760/) — Charles Schwab
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Director, Private Equity IT M&A –Due Diligence and Value Creation](https://www.linkedin.com/jobs/view/4471978967/) — KPMG US
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $209380 - $383525 K
+### [Director, Technology](https://www.linkedin.com/jobs/view/4472197206/) — Ohio Cat
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-09-30
 
-### [Smart Mobility Hub - Tolling Technology Principal Director](https://www.linkedin.com/jobs/view/4469055940/) — Accenture
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $163,000 to $413,600
+### [Senior Information Technology Project Manager](https://www.linkedin.com/jobs/view/4473912084/) — CCI- Computer Consultants International, Inc.
+- 📍 **Location:** South Carolina, United States
 - 🕒 **Posted:** 2026-09-30
 
-### [Director, Private Equity IT M&A –Due Diligence and Value Creation](https://www.linkedin.com/jobs/view/4471978965/) — KPMG US
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $209380 - $383525 K
-- 🕒 **Posted:** 2026-09-30
-
-### [Smart Mobility Hub - Tolling Technology Senior Manager](https://www.linkedin.com/jobs/view/4469054979/) — Accenture
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $132,500 to $302,400
+### [Vice President of IT Management](https://www.linkedin.com/jobs/view/4472309723/) — Merchant Serv
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-30
