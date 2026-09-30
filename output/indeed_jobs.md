@@ -1,32 +1,64 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-09-30 01:02 UTC*
+*Last updated: 2026-09-30 01:58 UTC*
 
-**4 new role(s)** since last run · 33 total in last 24h
+**9 new role(s)** since last run · 32 total in last 24h
 
-### [Executive Director AI Strategist - Principal Technical Program Manager](https://www.indeed.com/viewjob?jk=f7521318b35fe672) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $195k–$285k/yr
+### [Director of IT Service Delivery](https://www.indeed.com/viewjob?jk=3d67cbfa9c1ec175) — PACS
+- 📍 **Location:** Salt Lake City, UT, US
+- 💰 **Salary:** $150k–$170k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Director, IT Project Management Office](https://www.indeed.com/viewjob?jk=ee18eeca45f4ef6b) — Fresenius Kabi USA
-- 📍 **Location:** Lake Zurich, IL, US
-- 💰 **Salary:** $170k–$200k/yr
-- **Work mode:** Remote in-state eligible
+### [Chief Technology Officer](https://www.indeed.com/viewjob?jk=1fff03b8cfb92327) — Los Angeles LGBT Center
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $293k–$309k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-29
 
-### [Director of Technology Vendor Management - Business Process Services](https://www.indeed.com/viewjob?jk=8ab234f548b6aee7) — American Express
+### [Chief Technology Officer](https://www.indeed.com/viewjob?jk=2f09d4e94914b695) — Los Angeles LGBT Center
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $293k–$309k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [CISO Support SME](https://www.indeed.com/viewjob?jk=3ba273a0be8866e1) — AGR LLC
+- 📍 **Location:** Arlington, VA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Principal Program Manager - Acute Care Software](https://www.indeed.com/viewjob?jk=54e106736ef8d5fd) — Werfen
+- 📍 **Location:** Bedford, MA, US
+- 💰 **Salary:** $210k–$245k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Program Manager](https://www.indeed.com/viewjob?jk=9c32645a5c563e12) — BAE Systems USA
+- 📍 **Location:** Louisville, KY, US
+- 💰 **Salary:** $121k–$205k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Supply Chain Program Manager - Hybrid](https://www.indeed.com/viewjob?jk=505b8ee2644ffc39) — BAE Systems USA
+- 📍 **Location:** Fort Wayne, IN, US
+- 💰 **Salary:** $97k–$164k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-29
+
+### [Operations Program Manager](https://www.indeed.com/viewjob?jk=ba5bb24edd89e960) — Oracle
+- 📍 **Location:** Red Oak, TX, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [Operations Program Manager](https://www.indeed.com/viewjob?jk=79b21060ddd19fa2) — Oracle
 - 📍 **Location:** Phoenix, AZ, US
-- 💰 **Salary:** $123k–$215k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
-
-### [Program Manager V](https://www.indeed.com/viewjob?jk=3d987ad7f5d53f5d) — Commonwealth of Massachusetts
-- 📍 **Location:** Braintree, MA, US
-- 💰 **Salary:** $88k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-25
