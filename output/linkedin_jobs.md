@@ -1,13 +1,17 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-09-30 21:56 UTC*
+*Last updated: 2026-09-30 22:43 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Director, Technology Transformation](https://www.linkedin.com/jobs/view/4472346664/) — Blue Shield of California
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $181830.00 to $272800.00
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4472652024/) — Fatima Consultancy
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-30
 
-### [Program Manager (Cyber/IT Integration)](https://www.linkedin.com/jobs/view/4472350605/) — Air Force Civilian Service
-- 📍 **Location:** Washington, DC
+### [Chief Information Officer](https://www.linkedin.com/jobs/view/4472656009/) — Venture Capital
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-30
+
+### [Senior Manager, Cybersecurity, AI SOC & Crisis Management - Remote](https://www.linkedin.com/jobs/view/4471919612/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
 - 🕒 **Posted:** 2026-09-30
