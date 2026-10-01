@@ -1,31 +1,51 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-01 17:46 UTC*
+*Last updated: 2026-10-01 19:31 UTC*
 
-**6 new role(s)** since last run · 17 total in last 1h
+**10 new role(s)** since last run · 16 total in last 1h
 
-### [Director, IT PMO](https://www.linkedin.com/jobs/view/4464647291/) — Czarnowski Collective
-- 📍 **Location:** Austell, GA
-- 🕒 **Posted:** 2026-10-01
-
-### [Sr Manager IT - Generation Digital Execution](https://www.linkedin.com/jobs/view/4472577931/) — Constellation
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $174,600 to $194,000,
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Information Technology Project Manager](https://www.linkedin.com/jobs/view/4472586587/) — Capstone IT
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $65.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-10-01
-
-### [Vice President Information Technology](https://www.linkedin.com/jobs/view/4472947565/) — Alfa-Leasing
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4474375143/) — Mackie Mobile
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-01
 
-### [EY-Parthenon - Strategy and Execution - Deal Technology - PE - Director - Multiple Locations](https://www.linkedin.com/jobs/view/4434586252/) — EY-Parthenon
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $205,000 to $235,000
+### [Senior Manager, Cyber Technology Consulting](https://www.linkedin.com/jobs/view/4463093408/) — Kroll
+- 📍 **Location:** United States
+- 💰 **Salary:** $175,000 to $200,000
 - 🕒 **Posted:** 2026-10-01
 
-### [Director of Technology & Chief Architect](https://www.linkedin.com/jobs/view/4472597498/) — High 5 Games
+### [Director, IT Strategy & Project Management](https://www.linkedin.com/jobs/view/4472801494/) — Geller
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $210,000 -230,000
+- 🕒 **Posted:** 2026-10-01
+
+### [ServiceNow - ServiceNow IT/OT Asset Management (ITAM) Senior Manager - Tech Cons - Open Location](https://www.linkedin.com/jobs/view/4426882019/) — EY
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $171,600 to $392,100
+- 🕒 **Posted:** 2026-10-01
+
+### [ServiceNow - ServiceNow IT/OT Asset Management (ITAM) Senior Manager - Tech Cons - Open Location](https://www.linkedin.com/jobs/view/4426866952/) — EY
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $171,600 to $392,100
+- 🕒 **Posted:** 2026-10-01
+
+### [Director, IT Operations](https://www.linkedin.com/jobs/view/4472961308/) — Human Rights Campaign
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $159,000.00/yr - $190,800.00/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [Sr. Director, IT Chief of Staff & Portfolio Management](https://www.linkedin.com/jobs/view/4472957448/) — Alignment Health
 - 📍 **Location:** United States
+- 💰 **Salary:** $172,364.00 - $258,547.00
+- 🕒 **Posted:** 2026-10-01
+
+### [VP, Technology and Product](https://www.linkedin.com/jobs/view/4472811318/) — Carterwill Search
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $226,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4472800745/) — Ad Astra
+- 📍 **Location:** Kansas City Metropolitan Area
+- 🕒 **Posted:** 2026-10-01
+
+### [Assoc. Director, IT Business Partner - Pharmaceutical Development](https://www.linkedin.com/jobs/view/4472814251/) — BioCryst Pharmaceuticals, Inc.
+- 📍 **Location:** North Carolina, United States
 - 🕒 **Posted:** 2026-10-01
