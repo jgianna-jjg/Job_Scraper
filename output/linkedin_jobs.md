@@ -1,57 +1,50 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-01 01:37 UTC*
+*Last updated: 2026-10-01 03:17 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**10 new role(s)** since last run · 13 total in last 1h
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4473986637/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $220,000.00/yr - $230,000.00/yr
+### [Director, Emerging Technology and Innovation Programs](https://www.linkedin.com/jobs/view/4472387318/) — Internet2
+- 📍 **Location:** Michigan, United States
+- 💰 **Salary:** $146,500 - $164,800
 - 🕒 **Posted:** 2026-10-01
 
-### [Vice President, Technology Operations](https://www.linkedin.com/jobs/view/4473990310/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $282,000.00/yr - $322,000.00/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Director, Corporate IT](https://www.linkedin.com/jobs/view/4474102117/) — Swooped
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Director of Information Technology](https://www.linkedin.com/jobs/view/4473985591/) — Swooped
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-01
-
-### [IT Program Manager, Strategy & Operations](https://www.linkedin.com/jobs/view/4473989337/) — Deloitte
+### [Program Manager II/DoD cybersecurity/IT operations/PMP](https://www.linkedin.com/jobs/view/4474102493/) — Softek International
 - 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $102,500-$171,000
 - 🕒 **Posted:** 2026-10-01
 
-### [IT Program Manager, Strategy & Operations](https://www.linkedin.com/jobs/view/4474101054/) — Deloitte
-- 📍 **Location:** Greater Indianapolis
-- 💰 **Salary:** $102,500-$171,000
+### [Senior VP, Technology](https://www.linkedin.com/jobs/view/4473998466/) — Virtium LLC
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [IT Program Manager, Strategy & Operations](https://www.linkedin.com/jobs/view/4474101057/) — Deloitte
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $102,500-$171,000
-- 🕒 **Posted:** 2026-10-01
-
-### [Director, Infrastructure & IT Operations](https://www.linkedin.com/jobs/view/4473997182/) — Swooped
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4472654662/) — Fatima Consultancy
 - 📍 **Location:** United States
-- 💰 **Salary:** $170,000 - $180,000
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Director, Security Engineering - Slack](https://www.linkedin.com/jobs/view/4472371711/) — Salesforce
+### [Senior Project Manager - ERP (Technology, Data and Innovation)](https://www.linkedin.com/jobs/view/4473997339/) — UT MD Anderson
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Director, Technology](https://www.linkedin.com/jobs/view/4472660434/) — Aegon
+- 📍 **Location:** United States
+- 💰 **Salary:** $220K - $285K
+- 🕒 **Posted:** 2026-10-01
+
+### [Director I - Cybersecurity Operations & Incident Response](https://www.linkedin.com/jobs/view/4473994889/) — Elevance Health
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-10-01
+
+### [Director, Provider Technology and Innovation Strategy](https://www.linkedin.com/jobs/view/4469778801/) — Gainwell Technologies
+- 📍 **Location:** Indiana, United States
+- 💰 **Salary:** $137,100.00 - $195,800.00 per year
+- 🕒 **Posted:** 2026-10-01
+
+### [IT Program Manager](https://www.linkedin.com/jobs/view/4466636591/) — International Rescue Committee
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $218,400 - $365,200 annually
+- 💰 **Salary:** $88,277 - $103,222/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Director, Security Engineering - Slack](https://www.linkedin.com/jobs/view/4472364941/) — Salesforce
-- 📍 **Location:** California City, CA
-- 💰 **Salary:** $218,400 - $365,200 annually
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Director, Data Engineering - Slack](https://www.linkedin.com/jobs/view/4472378439/) — Salesforce
+### [Global Security Program Manager](https://www.linkedin.com/jobs/view/4473999926/) — Notion
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $218,400 - $365,200 annually
+- 💰 **Salary:** $208,000 – $233,000 per year
 - 🕒 **Posted:** 2026-10-01
