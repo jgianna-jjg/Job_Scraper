@@ -1,53 +1,8 @@
 {
-  "scraped_at": "2026-09-30 15:50 UTC",
-  "total": 11,
-  "new_count": 4,
+  "scraped_at": "2026-10-01 15:49 UTC",
+  "total": 6,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "Export-Import Bank of the United States",
-      "title": "Supervisory IT Program Manager (Policy and Planning)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/886712600",
-      "date_posted": "2026-09-29",
-      "salary": "Starting at $169,279 Per year (GS 15)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Environmental Protection Agency",
-      "title": "Chief Information Officer",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/886502000",
-      "date_posted": "2026-09-28",
-      "salary": "Starting at $197,201 Per year (ES 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Education Headquarters",
-      "title": "Chief Information Security Officer AD-2210-00 (Senior Manager) FPL AD-00",
-      "location": "San Francisco, California",
-      "url": "https://www.usajobs.gov/job/886448400",
-      "date_posted": "2026-09-28",
-      "salary": "Starting at $179,436 Per year (AD 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Health Agency",
-      "title": "Supervisory Program Manager",
-      "location": "Fort Detrick, Maryland",
-      "url": "https://www.usajobs.gov/job/886845400",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $143,913 Per year (NH 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Customs and Border Protection",
-      "title": "Program Manager (Construction Project Manager)",
-      "location": "Aliso Viejo, California",
-      "url": "https://www.usajobs.gov/job/886482600",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $106,437 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
     {
       "company": "U.S. Marine Corps",
       "title": "CHIEF INFORMATION OFFICER, CIO NF5",
@@ -67,21 +22,21 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Psychology Program Manager",
-      "location": "Lake Havasu City, Arizona",
-      "url": "https://www.usajobs.gov/job/886959400",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $128,473 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Department of Energy Headquarters",
       "title": "Supervisory Program Manager",
       "location": "Anchorage, Alaska",
       "url": "https://www.usajobs.gov/job/886919000",
       "date_posted": "2026-09-30",
       "salary": "Starting at $167,282 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Customs and Border Protection",
+      "title": "Program Manager (Construction Project Manager)",
+      "location": "Aliso Viejo, California",
+      "url": "https://www.usajobs.gov/job/886482600",
+      "date_posted": "2026-09-30",
+      "salary": "Starting at $106,437 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
@@ -103,42 +58,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Defense Health Agency",
-      "title": "Supervisory Program Manager",
-      "location": "Fort Detrick, Maryland",
-      "url": "https://www.usajobs.gov/job/886845400",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $143,913 Per year (NH 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Customs and Border Protection",
-      "title": "Program Manager (Construction Project Manager)",
-      "location": "Aliso Viejo, California",
-      "url": "https://www.usajobs.gov/job/886482600",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $106,437 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Psychology Program Manager",
-      "location": "Lake Havasu City, Arizona",
-      "url": "https://www.usajobs.gov/job/886959400",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $128,473 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Energy Headquarters",
-      "title": "Supervisory Program Manager",
-      "location": "Anchorage, Alaska",
-      "url": "https://www.usajobs.gov/job/886919000",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $167,282 Per year (GS 15)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
