@@ -1,51 +1,50 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-01 19:31 UTC*
+*Last updated: 2026-10-01 20:48 UTC*
 
-**10 new role(s)** since last run · 16 total in last 1h
+**10 new role(s)** since last run · 14 total in last 1h
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4474375143/) — Mackie Mobile
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4472822222/) — Deen Capital
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Manager, Cyber Technology Consulting](https://www.linkedin.com/jobs/view/4463093408/) — Kroll
-- 📍 **Location:** United States
-- 💰 **Salary:** $175,000 to $200,000
-- 🕒 **Posted:** 2026-10-01
-
-### [Director, IT Strategy & Project Management](https://www.linkedin.com/jobs/view/4472801494/) — Geller
+### [Chief Administrative Officer - Technology, Operations & Business Enablement](https://www.linkedin.com/jobs/view/4472597987/) — Neuberger
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $210,000 -230,000
+- 💰 **Salary:** $200,000-$250,000
 - 🕒 **Posted:** 2026-10-01
 
-### [ServiceNow - ServiceNow IT/OT Asset Management (ITAM) Senior Manager - Tech Cons - Open Location](https://www.linkedin.com/jobs/view/4426882019/) — EY
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $171,600 to $392,100
+### [Director of Technology & Business Systems - Bilingual in Spanish](https://www.linkedin.com/jobs/view/4474504956/) — RJI Search
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-10-01
 
-### [ServiceNow - ServiceNow IT/OT Asset Management (ITAM) Senior Manager - Tech Cons - Open Location](https://www.linkedin.com/jobs/view/4426866952/) — EY
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $171,600 to $392,100
-- 🕒 **Posted:** 2026-10-01
-
-### [Director, IT Operations](https://www.linkedin.com/jobs/view/4472961308/) — Human Rights Campaign
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $159,000.00/yr - $190,800.00/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Sr. Director, IT Chief of Staff & Portfolio Management](https://www.linkedin.com/jobs/view/4472957448/) — Alignment Health
+### [Senior Director, Technology - HR, Legal & Compliance](https://www.linkedin.com/jobs/view/4472976021/) — Aegon
 - 📍 **Location:** United States
-- 💰 **Salary:** $172,364.00 - $258,547.00
+- 💰 **Salary:** $220K - $285K
 - 🕒 **Posted:** 2026-10-01
 
-### [VP, Technology and Product](https://www.linkedin.com/jobs/view/4472811318/) — Carterwill Search
-- 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $226,000.00/yr - $250,000.00/yr
+### [Senior Security Program Manager](https://www.linkedin.com/jobs/view/4474501657/) — Concord Technologies
+- 📍 **Location:** United States
+- 💰 **Salary:** $140,000 - $160,000
 - 🕒 **Posted:** 2026-10-01
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4472800745/) — Ad Astra
-- 📍 **Location:** Kansas City Metropolitan Area
+### [IT Manager/VP](https://www.linkedin.com/jobs/view/4472807719/) — AdeptEdge Consulting
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-01
 
-### [Assoc. Director, IT Business Partner - Pharmaceutical Development](https://www.linkedin.com/jobs/view/4472814251/) — BioCryst Pharmaceuticals, Inc.
-- 📍 **Location:** North Carolina, United States
+### [EY-Parthenon - Strategy and Execution - Deal Technology - PE - Director - Multiple Locations](https://www.linkedin.com/jobs/view/4434593064/) — EY-Parthenon
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $205,000 to $235,000
+- 🕒 **Posted:** 2026-10-01
+
+### [ServiceNow - ServiceNow IT/OT Asset Management (ITAM) Senior Manager - Tech Cons - Open Location](https://www.linkedin.com/jobs/view/4426879047/) — EY
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $171,600 to $392,100
+- 🕒 **Posted:** 2026-10-01
+
+### [Sr. SAP Tech Program Manager, Leo Finance Technology](https://www.linkedin.com/jobs/view/4455902578/) — Amazon
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-01
+
+### [Director Superconducting Technology Architect](https://www.linkedin.com/jobs/view/4472810878/) — GlobalFoundries
+- 📍 **Location:** Maryland, United States
+- 💰 **Salary:** $166,500.00 - $290,000.00
 - 🕒 **Posted:** 2026-10-01
