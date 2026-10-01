@@ -1,63 +1,59 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-01 15:48 UTC*
+*Last updated: 2026-10-01 16:49 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**12 new role(s)** since last run · 23 total in last 1h
 
-### [Business Unit Chief Information Officer](https://www.linkedin.com/jobs/view/4440318979/) — Sysco
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-01
-
-### [Business Unit Chief Information Officer Food Service  ( Up to $400k total)](https://www.linkedin.com/jobs/view/4468402514/) — Confidential Startup
+### [Vice President of Information Technology](https://www.linkedin.com/jobs/view/4472325057/) — Lombard Odier & Cie (Gibraltar) Limited
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-01
 
-### [Divisional Chief Information Officer - Digital Services](https://www.linkedin.com/jobs/view/4455775046/) — Northwest Bank
-- 📍 **Location:** Columbus, OH
-- 🕒 **Posted:** 2026-10-01
-
-### [Business Unit Chief Information Officer](https://www.linkedin.com/jobs/view/4468024537/) — Confidential
+### [Vice President Information Technology](https://www.linkedin.com/jobs/view/4472933827/) — Alfa-Leasing
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-01
 
-### [Executive Vice President of Technology](https://www.linkedin.com/jobs/view/4469345526/) — Blue Ocean Technologies.
+### [VP of Cybersecurity](https://www.linkedin.com/jobs/view/4474348375/) — Tact
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-01
 
-### [Director – Internal Audit Information Technology](https://www.linkedin.com/jobs/view/4452857286/) — TDECU
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-01
-
-### [Director of IT Infrastructure](https://www.linkedin.com/jobs/view/4474319987/) — Go Big Partners
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Vice President of IT Management](https://www.linkedin.com/jobs/view/4474316540/) — CzechTrade Southeast Asia
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Director of Information Technology](https://www.linkedin.com/jobs/view/4474304943/) — Oakridge Staffing
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Cybersecurity & Risk Services (CRS) Director - For Financial/Banking](https://www.linkedin.com/jobs/view/4474322641/) — Wipro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00 to $280,000.00
-- 🕒 **Posted:** 2026-10-01
-
-### [AI Cybersecurity Solutions Director](https://www.linkedin.com/jobs/view/4474329331/) — Booz Allen Hamilton
+### [Director, US Regulated Products and Programs](https://www.linkedin.com/jobs/view/4452852550/) — Palo Alto Networks
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $162,800.00 to $302,300.00
+- 💰 **Salary:** $239,000.00 - $278,750.00/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Manager / Director, Emerging Applications & Technology Architecture](https://www.linkedin.com/jobs/view/4474329129/) — Renesas Electronics
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 🕒 **Posted:** 2026-10-01
-
-### [Senior Information Technology Project Manager](https://www.linkedin.com/jobs/view/4474313900/) — CCI- Computer Consultants International, Inc.
-- 📍 **Location:** South Carolina, United States
-- 🕒 **Posted:** 2026-10-01
-
-### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4472303472/) — Boyu Capital
+### [Director of Information Technology](https://www.linkedin.com/jobs/view/4472590275/) — RemoteHunter
 - 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-01
+
+### [Senior Manager, Cybersecurity, AI SOC & Crisis Management - Remote](https://www.linkedin.com/jobs/view/4471919612/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
+- 🕒 **Posted:** 2026-10-01
+
+### [Technology Operations Senior Director](https://www.linkedin.com/jobs/view/4463474664/) — FanDuel
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $186,000 - $280,000 USD
+- 🕒 **Posted:** 2026-10-01
+
+### [Business Development Director](https://www.linkedin.com/jobs/view/4474339354/) — Cisco
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $243,300.00 to $312,000.00
+- 🕒 **Posted:** 2026-10-01
+
+### [Head of Innovation and Technology (Design Agency)](https://www.linkedin.com/jobs/view/4472941468/) — Solomon Page
+- 📍 **Location:** United States
+- 💰 **Salary:** $200 - $225k
+- 🕒 **Posted:** 2026-10-01
+
+### [Internal Audit Executive Director – Global Audit Lead, Cybersecurity, Information Security & Cyber Resilience](https://www.linkedin.com/jobs/view/4472583813/) — Morgan Stanley
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-01
+
+### [Director, Commercial Technology Strategy and Deployment](https://www.linkedin.com/jobs/view/4446876400/) — Haemonetics
+- 📍 **Location:** United States
+- 💰 **Salary:** $149,200.00-$254,000.00/Annual
+- 🕒 **Posted:** 2026-10-01
+
+### [Sr Manager IT - Generation Digital Execution](https://www.linkedin.com/jobs/view/4472587428/) — Constellation
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $174,600 to $194,000,
 - 🕒 **Posted:** 2026-10-01
