@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-10-01 15:49 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-10-02 15:49 UTC",
+  "total": 9,
+  "new_count": 4,
   "jobs": [
+    {
+      "company": "Offices, Boards and Divisions",
+      "title": "Supervisory IT Program Manager (INFOSEC/PLCYPLN)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/887189600",
+      "date_posted": "2026-10-02",
+      "salary": "Starting at $169,279 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Defense Health Agency",
+      "title": "IT Program Manager (Policy and Planning)",
+      "location": "Charleston, South Carolina",
+      "url": "https://www.usajobs.gov/job/887109300",
+      "date_posted": "2026-10-02",
+      "salary": "Starting at $106,437 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "U.S. Marine Corps",
       "title": "CHIEF INFORMATION OFFICER, CIO NF5",
@@ -19,6 +37,24 @@
       "url": "https://www.usajobs.gov/job/883714800",
       "date_posted": "2026-09-08",
       "salary": "Starting at $190,300 Per year (DL 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Psychologist Program Manager - Mental Health Recovery Programming and Transformation",
+      "location": "Kansas City, Missouri",
+      "url": "https://www.usajobs.gov/job/887230200",
+      "date_posted": "2026-10-01",
+      "salary": "Starting at $154,722 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Energy Headquarters",
+      "title": "Geosciences Program Manager",
+      "location": "Germantown, Maryland",
+      "url": "https://www.usajobs.gov/job/886930400",
+      "date_posted": "2026-10-02",
+      "salary": "Starting at $169,279 Per year (GS 14-15)",
       "ats": "USAJOBS"
     },
     {
@@ -47,16 +83,44 @@
       "date_posted": "2026-09-29",
       "salary": "Starting at $127,068 Per year (GS 13)",
       "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Director of National Intelligence",
-      "title": "Program Manager - Transparency of Reciprocity Information System",
-      "location": "Bethesda, Maryland",
-      "url": "https://www.usajobs.gov/job/886254300",
-      "date_posted": "2026-09-24",
-      "salary": "Starting at $169,279 Per year (GS 15)",
-      "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Offices, Boards and Divisions",
+      "title": "Supervisory IT Program Manager (INFOSEC/PLCYPLN)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/887189600",
+      "date_posted": "2026-10-02",
+      "salary": "Starting at $169,279 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Defense Health Agency",
+      "title": "IT Program Manager (Policy and Planning)",
+      "location": "Charleston, South Carolina",
+      "url": "https://www.usajobs.gov/job/887109300",
+      "date_posted": "2026-10-02",
+      "salary": "Starting at $106,437 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Psychologist Program Manager - Mental Health Recovery Programming and Transformation",
+      "location": "Kansas City, Missouri",
+      "url": "https://www.usajobs.gov/job/887230200",
+      "date_posted": "2026-10-01",
+      "salary": "Starting at $154,722 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Energy Headquarters",
+      "title": "Geosciences Program Manager",
+      "location": "Germantown, Maryland",
+      "url": "https://www.usajobs.gov/job/886930400",
+      "date_posted": "2026-10-02",
+      "salary": "Starting at $169,279 Per year (GS 14-15)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
