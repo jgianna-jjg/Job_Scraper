@@ -1,18 +1,43 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-02 21:42 UTC*
+*Last updated: 2026-10-02 22:43 UTC*
 
-**3 new role(s)** since last run · 6 total in last 1h
+**8 new role(s)** since last run · 11 total in last 1h
 
-### [Deputy Information Technology Director](https://www.linkedin.com/jobs/view/4473805016/) — Carnegie Endowment for International Peace
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Vice President, Technology Transformation Lead](https://www.linkedin.com/jobs/view/4473389561/) — Social Capital Resources
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Senior Product Cybersecurity Technical Program Manager](https://www.linkedin.com/jobs/view/4475042130/) — General Motors
+### [Senior Director, IT (Seattle Preferred)](https://www.linkedin.com/jobs/view/4460115152/) — Docker, Inc
 - 📍 **Location:** United States
+- 💰 **Salary:** $207,550 – $296,500
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Manager, Cybersecurity, CTEM & Vulnerability Intelligence - Remote](https://www.linkedin.com/jobs/view/4473365146/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Manager, Cybersecurity, Metrics & Reporting - Remote](https://www.linkedin.com/jobs/view/4473353670/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
+- 🕒 **Posted:** 2026-10-02
+
+### [Engineering Manager / Head of Engineering - Dragonfly Portfolio](https://www.linkedin.com/jobs/view/4466231576/) — Dragonfly
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $280,000–$450,000
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior IS Program Manager (IT M&A Integrations)](https://www.linkedin.com/jobs/view/4475035635/) — Motion Recruitment
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $75.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Manager, Cybersecurity, AI SOC & Crisis Management - Remote](https://www.linkedin.com/jobs/view/4471919612/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
+- 🕒 **Posted:** 2026-10-02
+
+### [Senior Cybersecurity Project Manager (PMO & Governance) 5623](https://www.linkedin.com/jobs/view/4447303097/) — Tier4 Group
+- 📍 **Location:** Greater Houston
+- 🕒 **Posted:** 2026-10-02
+
+### [Strategy & Planning Director](https://www.linkedin.com/jobs/view/4475034613/) — Cisco
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $286,200.00 to $364,400.00
 - 🕒 **Posted:** 2026-10-02
