@@ -1,46 +1,32 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-02 16:48 UTC*
+*Last updated: 2026-10-02 17:46 UTC*
 
-**9 new role(s)** since last run · 19 total in last 1h
+**6 new role(s)** since last run · 17 total in last 1h
 
-### [Director, IT Operations](https://www.linkedin.com/jobs/view/4464567929/) — OpenLoop
+### [Director of Information Technology](https://www.linkedin.com/jobs/view/4473358791/) — RemoteHunter
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-02
 
-### [SAP Technology and D&A Director](https://www.linkedin.com/jobs/view/4465895146/) — PwC
-- 📍 **Location:** Columbus, OH
+### [SAP Technology and D&A Director](https://www.linkedin.com/jobs/view/4465898062/) — PwC
+- 📍 **Location:** Oklahoma City, OK
 - 💰 **Salary:** $155,000 - $410,000
 - 🕒 **Posted:** 2026-10-02
 
-### [SAP Technology and D&A Senior Manager](https://www.linkedin.com/jobs/view/4465899067/) — PwC
-- 📍 **Location:** Oklahoma City, OK
+### [SAP Technology and D&A Senior Manager](https://www.linkedin.com/jobs/view/4465886987/) — PwC
+- 📍 **Location:** Kansas City, MO
 - 💰 **Salary:** $124,000 - $280,000
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Manager, Cybersecurity, Metrics & Reporting - Remote](https://www.linkedin.com/jobs/view/4473353670/) — Stryker
-- 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
+### [SAP Technology and D&A Senior Manager](https://www.linkedin.com/jobs/view/4466011008/) — PwC
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $124,000 - $280,000
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Manager, Cybersecurity, CTEM & Vulnerability Intelligence - Remote](https://www.linkedin.com/jobs/view/4473365146/) — Stryker
-- 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
-- 🕒 **Posted:** 2026-10-02
-
-### [SAP Technology and D&A Director](https://www.linkedin.com/jobs/view/4466008031/) — PwC
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $155,000 - $410,000
-- 🕒 **Posted:** 2026-10-02
-
-### [Head of Information Technology](https://www.linkedin.com/jobs/view/4473354797/) — Kyverna Therapeutics
+### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4472803329/) — Lombard Odier & Cie (Gibraltar) Limited
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-02
 
-### [IT Head of Dynamics 365](https://www.linkedin.com/jobs/view/4384078575/) — Veranova
+### [Vice President, AI Architect (Remote)](https://www.linkedin.com/jobs/view/4473169440/) — CrowdStrike
 - 📍 **Location:** United States
-- 💰 **Salary:** $160,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Director IT Product Solutions](https://www.linkedin.com/jobs/view/4474772895/) — Pomeroy
-- 📍 **Location:** United States
+- 💰 **Salary:** $350,000 - $375,000 per year
 - 🕒 **Posted:** 2026-10-02
