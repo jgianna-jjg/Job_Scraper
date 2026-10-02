@@ -1,30 +1,33 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-02 22:57 UTC*
+*Last updated: 2026-10-02 23:56 UTC*
 
-**4 new role(s)** since last run · 24 total in last 24h
+**5 new role(s)** since last run · 27 total in last 24h
 
-### [Head of IT — Connected Care](https://www.indeed.com/viewjob?jk=0edea582e63eea43) — Philips
-- 📍 **Location:** Cambridge, MA, US
+### [Vice President, Chief Information Security Officer](https://www.indeed.com/viewjob?jk=71e6599becdc5b4d) — Entegris
+- 📍 **Location:** Bedford, MA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Director, Technology Compliance & Regulatory Engagement](https://www.indeed.com/viewjob?jk=cf60c8f99e728f6f) — SEI Investments
-- 📍 **Location:** Oaks, PA, US
+### [Internal Controls Program Manager](https://www.indeed.com/viewjob?jk=dd6d799168819657) — Hawaii Medical Service Association
+- 📍 **Location:** Honolulu, HI, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
 
-### [Sr. Technical Program Manager, Differentiated Security Team](https://www.indeed.com/viewjob?jk=9096064829174b7b) — Amazon.com
-- 📍 **Location:** Arlington, VA, US
-- 💰 **Salary:** $149k–$201k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [Program Manager of Technical Development](https://www.indeed.com/viewjob?jk=63b81723d2fb82ae) — DLB Associates
+### [Senior Program Manager, Health Coaching](https://www.indeed.com/viewjob?jk=4c173d923e85df34) — Omada Health
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $133k–$150k/yr
+- 💰 **Salary:** $141k–$202k/yr
 - **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-02
+
+### [Head of Information Technology](https://www.indeed.com/viewjob?jk=ae0343ab887e4df5) — CPI Security
+- 📍 **Location:** Charlotte, NC, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-02
+
+### [Sr Program Manager](https://www.indeed.com/viewjob?jk=6de1bfdb4ddd2f45) — Honeywell Aerospace
+- 📍 **Location:** Tempe, AZ, US
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-02
