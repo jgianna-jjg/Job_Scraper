@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-27 16:23 UTC",
+  "scraped_at": "2026-10-03 20:11 UTC",
   "total": 2,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Ohlone College (CA)",
@@ -22,24 +22,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Ohlone College (CA)",
-      "title": "Executive Director, Information Technology Services",
-      "location": "Fremont Campus and/or Newark Center",
-      "url": "https://www.governmentjobs.com/jobs/5477197-0/executive-director-information-technology-services",
-      "date_posted": "",
-      "salary": "$175,445.00 - $223,920.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Community College of Philadelphia",
-      "title": "Director of IT",
-      "location": "Main Campus - Philadelphia, PA",
-      "url": "https://www.governmentjobs.com/jobs/5484044-0/director-of-it",
-      "date_posted": "",
-      "salary": "$85,911.00 - $141,753.00 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
