@@ -1,18 +1,17 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-04 05:31 UTC*
+*Last updated: 2026-10-04 20:47 UTC*
 
-**2 new role(s)** since last run · 12 total in last 24h
+**2 new role(s)** since last run · 4 total in last 24h
 
-### [Director of Technology Innovation & Data](https://www.indeed.com/viewjob?jk=6ee87c104b42df79) — Four Seasons
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $140k–$145k/yr
+### [Director, IT & Business Enablement](https://www.indeed.com/viewjob?jk=51fadf9c922e009f) — CENSYS
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $180k–$230k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-04
+
+### [Program Manager HCM (Workday)](https://www.indeed.com/viewjob?jk=f3cc60cb5f518962) — Connect Centric
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $130k–$140k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-04
-
-### [Clinical Training Program Manager](https://www.indeed.com/viewjob?jk=5671176950c12828) — Health Care for the Homeless
-- 📍 **Location:** Baltimore, MD, US
-- 💰 **Salary:** $74k–$87k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-03
