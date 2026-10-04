@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-04 21:49 UTC",
+  "scraped_at": "2026-10-04 21:59 UTC",
   "total": 5,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "CENSYS",
@@ -94,24 +94,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Spring Health",
-      "title": "Senior Technical Program Manager, Emerging Products",
-      "location": "New York, NY, US",
-      "url": "https://www.indeed.com/viewjob?jk=074f85fa586b7927",
-      "direct_url": "https://jobs.ashbyhq.com/deaa6ad2-d184-436b-b69e-17f761da1d94/a889df85-0e0c-463b-85a7-27c920debaf2?utm_source=n0GE98Wz5m",
-      "company_url": "https://www.indeed.com/cmp/Spring-Health-1",
-      "date_posted": "2026-10-04",
-      "description": "**Our mission: eliminating every barrier to mental health.**\n------------------------------------------------------------\n\nSpring Health is a global mental health company on a mission to eliminate every barrier to mental health. We're building a world where getting support is simple, personal, and built around the person, so care can continue through every job, move, health plan, and life stage.  \n  \nOur AI-native platform helps us deliver personalized support across self-guided tools, coaching, therapy, medication management, and specialty care. With outcomes independently validated by JAMA Network Open and the Validation Institute, Spring Health reaches more than 170 million people worldwide through leading employers, health plans, and partners.  \n  \nAs an AI-native company, we believe technology should expand the reach, quality, and humanity of care. Every Spring Health team member is expected to use AI tools thoughtfully, apply human judgment to AI outputs, and keep building AI fluency in ways that support their role and our mission.\n\nReporting to the Director of Product and working closely with the Product Lead, you will lead complex programs across three critical growth areas: Global, Payer, and Partnerships. You will turn strategic priorities, customer feedback, and partner needs into coordinated plans that teams can deliver. You will also help teams resolve urgent issues, prevent recurring problems, and build an operating model that scales as these businesses grow\n\nPlease note that this is a **hybrid role based in New York City**, with an expectation to be in the office 2–3 days per week at our 60 Madison Avenue location. Candidates must be based in the NYC metro area or able to relocate independently within 90 days of their start date. Occasional travel will be required for team on-sites.\n\n### **What You’ll Do**\n\n* Lead programs from planning through launch, defining milestones, owners, dependencies, risks, and decisions.\n* Coordinate Product, Engineering, Data, Operations, Support, Partnerships, and other customer-facing teams to deliver on commitments.\n* Lead responses to urgent issues by establishing their scope, assigning owners, agreeing on next steps and timelines, and keeping stakeholders informed.\n* Serve as a trusted R&D point of contact for key customers and partner with customer-facing teams to understand and address their needs.\n* Work with Product and Engineering to identify recurring experience issues, deliver immediate fixes, and prioritize lasting improvements.\n* Build practical, repeatable ways to triage issues, prioritize work, manage escalations, track risks, and share progress.\n* Prepare teams for launches and changes by confirming responsibilities, dependencies, risks, testing, and operational readiness.\n* Develop an operating model that supports a growing portfolio of global, payer, and partner relationships.\n\n**What Success Looks Like**\n\n* Core member experiences across web, mobile, and other touchpoints are regularly audited and proactively monitored against member and customer needs.\n* Every priority program has a clear delivery plan that accounts for dependencies and improves predictability and time to launch.\n* Complex programs meet agreed commitments. Scope changes and trade-offs are surfaced early, documented, and resolved with the right stakeholders.\n* Leaders across Engineering, Product, Customer Success, and Marketing have clear, timely information about progress, risks, and decisions.\n* Program measures, such as on-time delivery, cycle time, scope stability, defect escape rate, and launch readiness, are defined and improve over time.\n* Payer programs receive thorough QA and regression testing, supported by a plan to scale those practices as the portfolio grows.\n* Teams spend less time navigating unclear processes and more time resolving customer needs and delivering work.\n* Customers and the Payer team feel well supported, especially when issues are urgent or complex.\n* Partners see program management as a rigorous, practical function that helps teams ship.\n\n### **What You’ll Bring**\n\n* 5+ years of experience managing complex programs in a technology-driven organization, working closely with engineers and product designers.\n* Experience partnering with customers and customer-facing teams on B2B or B2B2C products that deliver strong user satisfaction and engagement.\n* The ability to influence without formal authority, resolve competing priorities, and build trust across teams.\n* Confidence presenting to and working with senior executives, both internally and with customers.\n* An analytical, metrics-driven approach grounded in empathy for users.\n* Comfort navigating ambiguity and change while balancing immediate needs with longer-term goals.\n* A willingness to work through details as well as set direction.\n* Excellent written and verbal communication, strong stakeholder relationships, and careful attention to detail.\n\n### **Bonus Qualifications**\n\n* Experience working in healthcare.\n* Experience working on both web and mobile applications.\n\n**Note**: We have even more benefits than listed here and below, your recruiter will provide more in-depth information as you continue in the interview process. Benefits are subject to individual plan requirements and eligibility criteria.\n\n* Health, Dental, Vision benefits start on your first day at Spring. You and your dependents also receive access to **One Medical**accounts HSA and FSA plans are also available, with Spring contributing up to $1K for HSAs, depending on your plan type.\n* Employer sponsored 401(k) match of up to 2% for retirement planning\n* A yearly allotment of no cost visits to the Spring Health network of therapists, coaches, and medication management providers for you and your dependents.\n* We offer competitive paid time off policies including vacation, sick leave and company holidays.\n* At 6 months tenure with Spring, we offer parental leave of 18 weeks for birthing parents and 16 weeks fo",
-      "salary": "$159k–$196k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
