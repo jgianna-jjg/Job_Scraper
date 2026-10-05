@@ -1,33 +1,33 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-05 21:51 UTC*
+*Last updated: 2026-10-05 22:43 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**6 new role(s)** since last run · 13 total in last 1h
 
-### [Deputy Chief Information Officer](https://www.linkedin.com/jobs/view/4475876689/) — Orcas Capital
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-05
-
-### [Director, Integrated Justice Technology](https://www.linkedin.com/jobs/view/4474574772/) — Harris County
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-05
-
-### [Houston Technology Audit & Advisory Senior Manager](https://www.linkedin.com/jobs/view/4475872750/) — Protiviti
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $118,000.00 - $189,000.00
-- 🕒 **Posted:** 2026-10-05
-
-### [Director Information Technology Audit (Cybersecurity, Cloud & AI)](https://www.linkedin.com/jobs/view/4474640091/) — TechMind RPO
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-05
-
-### [Director, Technology Program Management](https://www.linkedin.com/jobs/view/4473678815/) — Equinix
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-10-05
-
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4475875788/) — Sodali & Co
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4475882539/) — Strategic Employment Partners (SEP)
 - 📍 **Location:** New York, United States
+- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Fractional Chief Information Officer](https://www.linkedin.com/jobs/view/4475879551/) — Rare
+### [Sr. Director, Cybersecurity Advisory Services](https://www.linkedin.com/jobs/view/4475877782/) — Presidio
 - 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Manager, Cybersecurity, AI SOC & Crisis Management - Remote](https://www.linkedin.com/jobs/view/4471919612/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Manager, Cybersecurity, CTEM & Vulnerability Intelligence - Remote](https://www.linkedin.com/jobs/view/4473365146/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Manager, Tax Technology Consulting](https://www.linkedin.com/jobs/view/4474621875/) — Ryan
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $158,000.00 - $211,750.00
+- 🕒 **Posted:** 2026-10-05
+
+### [Vice President, Technology Investment Banking // Mergers and Acquisitions (M&A)](https://www.linkedin.com/jobs/view/4473682776/) — Portage Point Partners
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $400,000 - $600,000
 - 🕒 **Posted:** 2026-10-05
