@@ -1,14 +1,16 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-05 01:04 UTC*
+*Last updated: 2026-10-05 01:58 UTC*
 
-**2 new role(s)** since last run · 7 total in last 24h
+**2 new role(s)** since last run · 8 total in last 24h
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=d1a9f36324a4f389) — GreenXT
-- 📍 **Location:** Washington, DC, US
-- **Work mode:** On-site
+### [Chief Technology Officer](https://www.indeed.com/viewjob?jk=161786c7c7025bdd) — Sardine
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-10-04
 
-### [Deputy Program Manager](https://www.indeed.com/viewjob?jk=1a70feeff7f154cf) — GreenXT
-- 📍 **Location:** Washington, DC, US
+### [Deputy National Program Manager](https://www.indeed.com/viewjob?jk=2f33befb4ed97abd) — Day & Zimmermann
+- 📍 **Location:** US
+- 💰 **Salary:** $107k–$161k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-04
