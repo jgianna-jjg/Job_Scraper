@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — IT & Cybersecurity Roles
-*Last updated: 2026-10-05 18:49 UTC*
+*Last updated: 2026-10-05 21:51 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
