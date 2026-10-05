@@ -1,24 +1,24 @@
 # 🇺🇸 USAJOBS — Federal IT & Cybersecurity Roles
-*Last updated: 2026-10-02 15:49 UTC*
+*Last updated: 2026-10-05 15:50 UTC*
 
-**4 new role(s)** since last run · 9 total in current USAJOBS postings
+**4 new role(s)** since last run · 8 total in current USAJOBS postings
 
-### [Supervisory IT Program Manager (INFOSEC/PLCYPLN)](https://www.usajobs.gov/job/887189600) — Offices, Boards and Divisions
-- 📍 **Location:** Washington, District of Columbia
-- 💰 **Salary:** Starting at $169,279 Per year (GS 15)
-- 🕒 **Posted:** 2026-10-02
+### [Deputy Chief Information Officer](https://www.usajobs.gov/job/887470100) — Headquarters, NASA
+- 📍 **Location:** Sandusky County, Ohio
+- 💰 **Salary:** Starting at $217,333 Per year (ES 00)
+- 🕒 **Posted:** 2026-10-05
 
-### [IT Program Manager (Policy and Planning)](https://www.usajobs.gov/job/887109300) — Defense Health Agency
-- 📍 **Location:** Charleston, South Carolina
-- 💰 **Salary:** Starting at $106,437 Per year (GS 13)
-- 🕒 **Posted:** 2026-10-02
+### [Director of Technology and Computing](https://www.usajobs.gov/job/887549300) — Bureau of Labor Statistics
+- 📍 **Location:** Suitland, Maryland
+- 💰 **Salary:** Starting at $151,661 Per year (ES 00)
+- 🕒 **Posted:** 2026-10-05
 
-### [Psychologist Program Manager - Mental Health Recovery Programming and Transformation](https://www.usajobs.gov/job/887230200) — Veterans Health Administration
-- 📍 **Location:** Kansas City, Missouri
-- 💰 **Salary:** Starting at $154,722 Per year (GS 14)
-- 🕒 **Posted:** 2026-10-01
+### [Supervisory IT Program Manager](https://www.usajobs.gov/job/887268000) — Deputy Assistant Secretary for Information and Technology
+- 📍 **Location:** Salt Lake City, Utah
+- 💰 **Salary:** Starting at $147,945 Per year (GS 15)
+- 🕒 **Posted:** 2026-10-05
 
-### [Geosciences Program Manager](https://www.usajobs.gov/job/886930400) — Department of Energy Headquarters
-- 📍 **Location:** Germantown, Maryland
-- 💰 **Salary:** Starting at $169,279 Per year (GS 14-15)
-- 🕒 **Posted:** 2026-10-02
+### [Supervisory Nurse (Program Manager)](https://www.usajobs.gov/job/887517300) — Veterans Health Administration
+- 📍 **Location:** Tuscaloosa, Alabama
+- 💰 **Salary:** Starting at $70,525 Per year (VN 00)
+- 🕒 **Posted:** 2026-10-05

@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-10-02 15:49 UTC",
-  "total": 9,
+  "scraped_at": "2026-10-05 15:50 UTC",
+  "total": 8,
   "new_count": 4,
   "jobs": [
+    {
+      "company": "Headquarters, NASA",
+      "title": "Deputy Chief Information Officer",
+      "location": "Sandusky County, Ohio",
+      "url": "https://www.usajobs.gov/job/887470100",
+      "date_posted": "2026-10-05",
+      "salary": "Starting at $217,333 Per year (ES 00)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Offices, Boards and Divisions",
       "title": "Supervisory IT Program Manager (INFOSEC/PLCYPLN)",
@@ -13,21 +22,21 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Defense Health Agency",
-      "title": "IT Program Manager (Policy and Planning)",
-      "location": "Charleston, South Carolina",
-      "url": "https://www.usajobs.gov/job/887109300",
-      "date_posted": "2026-10-02",
-      "salary": "Starting at $106,437 Per year (GS 13)",
+      "company": "Bureau of Labor Statistics",
+      "title": "Director of Technology and Computing",
+      "location": "Suitland, Maryland",
+      "url": "https://www.usajobs.gov/job/887549300",
+      "date_posted": "2026-10-05",
+      "salary": "Starting at $151,661 Per year (ES 00)",
       "ats": "USAJOBS"
     },
     {
-      "company": "U.S. Marine Corps",
-      "title": "CHIEF INFORMATION OFFICER, CIO NF5",
-      "location": "Quantico, Virginia",
-      "url": "https://www.usajobs.gov/job/885492400",
-      "date_posted": "2026-09-18",
-      "salary": "Starting at $170,000 Per year (NF 5)",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "title": "Supervisory IT Program Manager",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.usajobs.gov/job/887268000",
+      "date_posted": "2026-10-05",
+      "salary": "Starting at $147,945 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
@@ -41,11 +50,11 @@
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Psychologist Program Manager - Mental Health Recovery Programming and Transformation",
-      "location": "Kansas City, Missouri",
-      "url": "https://www.usajobs.gov/job/887230200",
-      "date_posted": "2026-10-01",
-      "salary": "Starting at $154,722 Per year (GS 14)",
+      "title": "Supervisory Nurse (Program Manager)",
+      "location": "Tuscaloosa, Alabama",
+      "url": "https://www.usajobs.gov/job/887517300",
+      "date_posted": "2026-10-05",
+      "salary": "Starting at $70,525 Per year (VN 00)",
       "ats": "USAJOBS"
     },
     {
@@ -65,61 +74,43 @@
       "date_posted": "2026-09-30",
       "salary": "Starting at $167,282 Per year (GS 15)",
       "ats": "USAJOBS"
-    },
-    {
-      "company": "Customs and Border Protection",
-      "title": "Program Manager (Construction Project Manager)",
-      "location": "Aliso Viejo, California",
-      "url": "https://www.usajobs.gov/job/886482600",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $106,437 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Facility Program Manager - Informatics",
-      "location": "Iowa City, Iowa",
-      "url": "https://www.usajobs.gov/job/886747500",
-      "date_posted": "2026-09-29",
-      "salary": "Starting at $127,068 Per year (GS 13)",
-      "ats": "USAJOBS"
     }
   ],
   "new_jobs": [
     {
-      "company": "Offices, Boards and Divisions",
-      "title": "Supervisory IT Program Manager (INFOSEC/PLCYPLN)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/887189600",
-      "date_posted": "2026-10-02",
-      "salary": "Starting at $169,279 Per year (GS 15)",
+      "company": "Headquarters, NASA",
+      "title": "Deputy Chief Information Officer",
+      "location": "Sandusky County, Ohio",
+      "url": "https://www.usajobs.gov/job/887470100",
+      "date_posted": "2026-10-05",
+      "salary": "Starting at $217,333 Per year (ES 00)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Defense Health Agency",
-      "title": "IT Program Manager (Policy and Planning)",
-      "location": "Charleston, South Carolina",
-      "url": "https://www.usajobs.gov/job/887109300",
-      "date_posted": "2026-10-02",
-      "salary": "Starting at $106,437 Per year (GS 13)",
+      "company": "Bureau of Labor Statistics",
+      "title": "Director of Technology and Computing",
+      "location": "Suitland, Maryland",
+      "url": "https://www.usajobs.gov/job/887549300",
+      "date_posted": "2026-10-05",
+      "salary": "Starting at $151,661 Per year (ES 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "title": "Supervisory IT Program Manager",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.usajobs.gov/job/887268000",
+      "date_posted": "2026-10-05",
+      "salary": "Starting at $147,945 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
-      "title": "Psychologist Program Manager - Mental Health Recovery Programming and Transformation",
-      "location": "Kansas City, Missouri",
-      "url": "https://www.usajobs.gov/job/887230200",
-      "date_posted": "2026-10-01",
-      "salary": "Starting at $154,722 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Energy Headquarters",
-      "title": "Geosciences Program Manager",
-      "location": "Germantown, Maryland",
-      "url": "https://www.usajobs.gov/job/886930400",
-      "date_posted": "2026-10-02",
-      "salary": "Starting at $169,279 Per year (GS 14-15)",
+      "title": "Supervisory Nurse (Program Manager)",
+      "location": "Tuscaloosa, Alabama",
+      "url": "https://www.usajobs.gov/job/887517300",
+      "date_posted": "2026-10-05",
+      "salary": "Starting at $70,525 Per year (VN 00)",
       "ats": "USAJOBS"
     }
   ]
