@@ -1,22 +1,42 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-05 15:46 UTC*
+*Last updated: 2026-10-05 16:46 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**8 new role(s)** since last run · 11 total in last 1h
 
-### [Senior Vice President IT - Generation, Transmission & Distribution](https://www.linkedin.com/jobs/view/4473645911/) — American Electric Power
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $305,460.00 - $397,098.50
+### [Senior Manager, Cybersecurity, AI SOC & Crisis Management - Remote](https://www.linkedin.com/jobs/view/4471919612/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
 - 🕒 **Posted:** 2026-10-05
 
-### [Director, Technology Risk and Business Continuity](https://www.linkedin.com/jobs/view/4475599905/) — UNFCU
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+### [Senior Manager, Cybersecurity, Metrics & Reporting - Remote](https://www.linkedin.com/jobs/view/4473353670/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
 - 🕒 **Posted:** 2026-10-05
 
-### [Vice President of Technology](https://www.linkedin.com/jobs/view/4473671039/) — NN Investment Partners-o
+### [Senior Manager, Cybersecurity, CTEM & Vulnerability Intelligence - Remote](https://www.linkedin.com/jobs/view/4473365146/) — Stryker
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,900 - $259,700 USD
+- 🕒 **Posted:** 2026-10-05
+
+### [Technical Program Manager - Cybersecurity Remediation](https://www.linkedin.com/jobs/view/4475818490/) — Dahl Consulting
+- 📍 **Location:** Minnesota, United States
+- 💰 **Salary:** $67.00 - $112.00 per hour
+- 🕒 **Posted:** 2026-10-05
+
+### [Chief Technology Officer & Executive Coach](https://www.linkedin.com/jobs/view/4475831110/) — Impel-Consultants
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-05
 
-### [Sr. IT Project Manager](https://www.linkedin.com/jobs/view/4475800845/) — Harris County
-- 📍 **Location:** Houston, TX
+### [Chief Information Officer](https://www.linkedin.com/jobs/view/4473676082/) — Giant Venture Capital Limited
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Manager, Legal Operations Technology](https://www.linkedin.com/jobs/view/4475806917/) — Link Logistics
+- 📍 **Location:** Fort Washington, PA
+- 💰 **Salary:** $120,000 - $140,000
+- 🕒 **Posted:** 2026-10-05
+
+### [Security Program Manager](https://www.linkedin.com/jobs/view/4473651947/) — GoldenTech
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $130,000.00/yr - $145,000.00/yr
 - 🕒 **Posted:** 2026-10-05
