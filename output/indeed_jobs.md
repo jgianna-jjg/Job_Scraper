@@ -1,46 +1,29 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-05 17:00 UTC*
+*Last updated: 2026-10-05 18:04 UTC*
 
-**6 new role(s)** since last run · 9 total in last 24h
+**4 new role(s)** since last run · 9 total in last 24h
 
-### [Deputy Chief Information Officer](https://www.indeed.com/viewjob?jk=75b1b1c6b2abb567) — Unknown
-- 📍 **Location:** OH, US
-- 💰 **Salary:** $217k–$223k/yr
+### [Director of IT Communications & Engagement](https://www.indeed.com/viewjob?jk=d8692e7320caeeea) — SouthState Bank
+- 📍 **Location:** Winter Haven, FL, US
+- 💰 **Salary:** $134k–$213k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Director of Technology and Computing](https://www.indeed.com/viewjob?jk=e9fbf4f382be1c53) — U.S. Bureau of Labor Statistics
-- 📍 **Location:** Suitland, MD, US
-- 💰 **Salary:** $152k–$228k/yr
+### [Director, IT Engineering](https://www.indeed.com/viewjob?jk=ac7ca845c132eb36) — Performance Contracting
+- 📍 **Location:** Lenexa, KS, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Supervisory Nurse (Program Manager)](https://www.indeed.com/viewjob?jk=80640b8b1588d36e) — US Department of Veterans Affairs
-- 📍 **Location:** Tuscaloosa, AL, US
-- 💰 **Salary:** $71k–$129k/yr
-- **Work mode:** On-site
+### [Sr. Director, Cybersecurity Advisory Services](https://www.indeed.com/viewjob?jk=0e6497fa8732a010) — Presidio
+- 📍 **Location:** US
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Program Manager/Contracting Officer Representative (O-5 Billet) Non-Supervisory](https://www.indeed.com/viewjob?jk=c4fa87840bce9340) — U.S. Immigration and Customs Enforcement
-- 📍 **Location:** Salt Lake City, UT, US
-- 💰 **Salary:** $1–$150k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Program Manager, Taskings & Program Support Unit (O-6 BIllet) Non-Supervisory](https://www.indeed.com/viewjob?jk=e8ce1aa6c789fd66) — U.S. Immigration and Customs Enforcement
-- 📍 **Location:** Salt Lake City, UT, US
-- 💰 **Salary:** $1–$150k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Supervisory IT Program Manager](https://www.indeed.com/viewjob?jk=6e95b715410f5c58) — Unknown
-- 📍 **Location:** Salt Lake City, UT, US
-- 💰 **Salary:** $148k–$192k/yr
-- **Work mode:** On-site
+### [Deputy CISO](https://www.indeed.com/viewjob?jk=8079af0e67392ca0) — Availity, LLC.
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
