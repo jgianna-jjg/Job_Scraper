@@ -1,42 +1,32 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-05 16:46 UTC*
+*Last updated: 2026-10-05 18:03 UTC*
 
-**8 new role(s)** since last run · 11 total in last 1h
+**6 new role(s)** since last run · 14 total in last 1h
 
-### [Senior Manager, Cybersecurity, AI SOC & Crisis Management - Remote](https://www.linkedin.com/jobs/view/4471919612/) — Stryker
+### [Vice President, Health Information and Technology](https://www.linkedin.com/jobs/view/4475815813/) — Texas Health Action
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $147,721.00/yr - $147,721.00/yr
+- 🕒 **Posted:** 2026-10-05
+
+### [Sr IT Director II](https://www.linkedin.com/jobs/view/4475825686/) — Florida Blue
 - 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
+- 💰 **Salary:** $180,000 - $292,500
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior Manager, Cybersecurity, Metrics & Reporting - Remote](https://www.linkedin.com/jobs/view/4473353670/) — Stryker
-- 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
+### [Program Manager - Research Security Program](https://www.linkedin.com/jobs/view/4451966064/) — Ardent Eagle Solutions
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $132,870 – $176,000 annually
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior Manager, Cybersecurity, CTEM & Vulnerability Intelligence - Remote](https://www.linkedin.com/jobs/view/4473365146/) — Stryker
-- 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
+### [Senior Manager - IT Audit](https://www.linkedin.com/jobs/view/4474292993/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $103,750.00/yr - $174,750.00/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Technical Program Manager - Cybersecurity Remediation](https://www.linkedin.com/jobs/view/4475818490/) — Dahl Consulting
-- 📍 **Location:** Minnesota, United States
-- 💰 **Salary:** $67.00 - $112.00 per hour
-- 🕒 **Posted:** 2026-10-05
-
-### [Chief Technology Officer & Executive Coach](https://www.linkedin.com/jobs/view/4475831110/) — Impel-Consultants
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-05
-
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4473676082/) — Giant Venture Capital Limited
+### [Vice President of Technology](https://www.linkedin.com/jobs/view/4474280971/) — Helios Insurance Services, Inc.
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior Manager, Legal Operations Technology](https://www.linkedin.com/jobs/view/4475806917/) — Link Logistics
-- 📍 **Location:** Fort Washington, PA
-- 💰 **Salary:** $120,000 - $140,000
-- 🕒 **Posted:** 2026-10-05
-
-### [Security Program Manager](https://www.linkedin.com/jobs/view/4473651947/) — GoldenTech
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $130,000.00/yr - $145,000.00/yr
+### [Director of Information Technology](https://www.linkedin.com/jobs/view/4474296625/) — RemoteHunter
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-05
