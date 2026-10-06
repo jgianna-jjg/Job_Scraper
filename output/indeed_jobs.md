@@ -1,17 +1,25 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-06 02:59 UTC*
+*Last updated: 2026-10-06 03:44 UTC*
 
-**2 new role(s)** since last run · 19 total in last 24h
+**3 new role(s)** since last run · 22 total in last 24h
 
-### [Regional Director of Information Technology Services](https://www.indeed.com/viewjob?jk=f9a91c42d3f1438b) — Hilo Benioff Medical Center
-- 📍 **Location:** Hilo, HI, US
-- 💰 **Salary:** $170k–$180k/yr
+### [Senior Director of IT and Cybersecurity](https://www.indeed.com/viewjob?jk=45ff3137592c16c6) — RFG Advisory
+- 📍 **Location:** Birmingham, AL, US
+- 💰 **Salary:** $150k–$175k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-05
 
-### [Program Manager Center for Cellular Language Intelligence](https://www.indeed.com/viewjob?jk=90c6e3433cbc0c2c) — MD Anderson Cancer Center
-- 📍 **Location:** Houston, TX, US
-- 💰 **Salary:** $79k–$119k/yr
+### [Clinical Support Sr Program Manager](https://www.indeed.com/viewjob?jk=4e16d5519f6a2986) — DaVita
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $100k–$147k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Technical Program Manager-Flight Software](https://www.indeed.com/viewjob?jk=4c1b86e7eea55d5e) — Intuitive Machines
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $131k–$251k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
