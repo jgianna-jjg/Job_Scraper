@@ -1,25 +1,22 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-06 03:44 UTC*
+*Last updated: 2026-10-06 04:00 UTC*
 
-**3 new role(s)** since last run · 22 total in last 24h
+**3 new role(s)** since last run · 23 total in last 24h
 
-### [Senior Director of IT and Cybersecurity](https://www.indeed.com/viewjob?jk=45ff3137592c16c6) — RFG Advisory
-- 📍 **Location:** Birmingham, AL, US
-- 💰 **Salary:** $150k–$175k/yr
-- **Work mode:** On-site
+### [Chief Technology Officer](https://www.indeed.com/viewjob?jk=4cc8ae7abf6f6b8b) — 321 The Agency
+- 📍 **Location:** Orlando, FL, US
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Clinical Support Sr Program Manager](https://www.indeed.com/viewjob?jk=4e16d5519f6a2986) — DaVita
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $100k–$147k/yr
-- **Work mode:** On-site
+### [Director of Technology & AI](https://www.indeed.com/viewjob?jk=1ea3cfb353792efb) — 321 The Agency
+- 📍 **Location:** Orlando, FL, US
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Technical Program Manager-Flight Software](https://www.indeed.com/viewjob?jk=4c1b86e7eea55d5e) — Intuitive Machines
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $131k–$251k/yr
+### [26-0109-001 | Program Manager / Army Mission Adviser — Army GenAI (Contingent)](https://www.indeed.com/viewjob?jk=61c9f8b93e755f17) — Axyde Analytics
+- 📍 **Location:** Killeen, TX, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
