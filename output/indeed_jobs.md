@@ -1,22 +1,31 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-06 17:01 UTC*
+*Last updated: 2026-10-06 17:58 UTC*
 
-**3 new role(s)** since last run · 36 total in last 24h
+**4 new role(s)** since last run · 37 total in last 24h
 
-### [Director of Technology](https://www.indeed.com/viewjob?jk=34a307f732844746) — Cincinnati Country Day School
-- 📍 **Location:** Cincinnati, OH, US
+### [Chief Technology Officer](https://www.indeed.com/viewjob?jk=4d5517fec4799894) — JOURNAL TECHNOLOGIES
+- 📍 **Location:** Logan, UT, US
+- 💰 **Salary:** $205k–$275k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Legal Operations Program Manager, M&A Integrations](https://www.indeed.com/viewjob?jk=235512770c8f3407) — Lyft
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $132k–$165k/yr
+### [Chief Technology Officer](https://www.indeed.com/viewjob?jk=c3449280796b6b77) — JOURNAL TECHNOLOGIES
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $205k–$275k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Legal Operations Program Manager, M&A Integrations](https://www.indeed.com/viewjob?jk=447d8e418c7b4ad2) — Lyft
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $132k–$165k/yr
+### [Program Manager II](https://www.indeed.com/viewjob?jk=16d6ed1dc2fdce20) — Sierra Nevada Corporation
+- 📍 **Location:** Lone Tree, CO, US
+- 💰 **Salary:** $143k–$197k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Contractor Program Manager](https://www.indeed.com/viewjob?jk=d5912b92971113e2) — Network Runners, Inc.
+- 📍 **Location:** Washington, DC, US
+- **Work mode:** On-site
+- **Job type:** fulltime, contract
 - 🕒 **Posted:** 2026-10-06
