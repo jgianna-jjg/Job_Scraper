@@ -1,40 +1,30 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-06 17:45 UTC*
+*Last updated: 2026-10-06 19:31 UTC*
 
-**8 new role(s)** since last run · 16 total in last 1h
+**6 new role(s)** since last run · 11 total in last 1h
 
-### [Director of Information Technology](https://www.linkedin.com/jobs/view/4474972943/) — RemoteHunter
+### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4458240738/) — DLA Piper
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $550,000 - $650,000 per year
+- 🕒 **Posted:** 2026-10-06
+
+### [System Director IT Project Management - Information Systems Applications - FT - Day](https://www.linkedin.com/jobs/view/4474087841/) — Stormont Vail Health
+- 📍 **Location:** Kansas, United States
+- 🕒 **Posted:** 2026-10-06
+
+### [VP, Technology & Product](https://www.linkedin.com/jobs/view/4471094762/) — JR Recruiting
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-06
 
-### [Director, Technology Risk Consulting - IT Audit](https://www.linkedin.com/jobs/view/4457155810/) — RSM US LLP
+### [Sr. Manager, HR Technology](https://www.linkedin.com/jobs/view/4456532426/) — Safelite
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-10-06
+
+### [Sr. Manager, Legal Innovation & Operations (Legal Technology)](https://www.linkedin.com/jobs/view/4476344864/) — NBCUniversal
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $126,500 - $254,700
+- 💰 **Salary:** $110,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Director of Information Technology](https://www.linkedin.com/jobs/view/4476321985/) — Project On Government Oversight
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $128,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Vice President, Revenue Cycle Technology Operations](https://www.linkedin.com/jobs/view/4475096144/) — EnableComp
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior Manager of Corporate Functions Technology](https://www.linkedin.com/jobs/view/4474093247/) — Forvis Mazars US
+### [Retail/Apparel IT Program Manager](https://www.linkedin.com/jobs/view/4474988819/) — Hireproo LLC
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-06
-
-### [Cybersecurity & Risk Services (CRS) Director](https://www.linkedin.com/jobs/view/4476332803/) — Wipro
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00 to $280,000.00
-- 🕒 **Posted:** 2026-10-06
-
-### [Chief Information Officer](https://www.linkedin.com/jobs/view/4474078917/) — Orix Real Estate Korea
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-06
-
-### [Material Technology Director](https://www.linkedin.com/jobs/view/4476341252/) — Samsung Semiconductor
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $217,000 - $281,500
 - 🕒 **Posted:** 2026-10-06
