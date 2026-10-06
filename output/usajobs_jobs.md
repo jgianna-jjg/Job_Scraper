@@ -1,24 +1,19 @@
 # 🇺🇸 USAJOBS — Federal IT & Cybersecurity Roles
-*Last updated: 2026-10-05 15:50 UTC*
+*Last updated: 2026-10-06 15:47 UTC*
 
-**4 new role(s)** since last run · 8 total in current USAJOBS postings
+**3 new role(s)** since last run · 10 total in current USAJOBS postings
 
-### [Deputy Chief Information Officer](https://www.usajobs.gov/job/887470100) — Headquarters, NASA
-- 📍 **Location:** Sandusky County, Ohio
-- 💰 **Salary:** Starting at $217,333 Per year (ES 00)
-- 🕒 **Posted:** 2026-10-05
+### [Physician (Hematology and Oncology Program Manager)](https://www.usajobs.gov/job/887721100) — Veterans Health Administration
+- 📍 **Location:** Salisbury, North Carolina
+- 💰 **Salary:** Starting at $350,000 Per year (VM 15)
+- 🕒 **Posted:** 2026-10-06
 
-### [Director of Technology and Computing](https://www.usajobs.gov/job/887549300) — Bureau of Labor Statistics
-- 📍 **Location:** Suitland, Maryland
-- 💰 **Salary:** Starting at $151,661 Per year (ES 00)
-- 🕒 **Posted:** 2026-10-05
+### [Supervisory Program Manager (Director, University Transportation Centers Program) (Open to both U.S. Citizens and Federal Employees)](https://www.usajobs.gov/job/887611500) — Office of the Secretary of Transportation
+- 📍 **Location:** Washington, District of Columbia
+- 💰 **Salary:** Starting at $169,279 Per year (GS 15)
+- 🕒 **Posted:** 2026-10-06
 
-### [Supervisory IT Program Manager](https://www.usajobs.gov/job/887268000) — Deputy Assistant Secretary for Information and Technology
-- 📍 **Location:** Salt Lake City, Utah
-- 💰 **Salary:** Starting at $147,945 Per year (GS 15)
-- 🕒 **Posted:** 2026-10-05
-
-### [Supervisory Nurse (Program Manager)](https://www.usajobs.gov/job/887517300) — Veterans Health Administration
-- 📍 **Location:** Tuscaloosa, Alabama
-- 💰 **Salary:** Starting at $70,525 Per year (VN 00)
-- 🕒 **Posted:** 2026-10-05
+### [Program Manager](https://www.usajobs.gov/job/887715300) — Missile Defense Agency
+- 📍 **Location:** Redstone Arsenal, Alabama
+- 💰 **Salary:** Starting at $130,987 Per year (NH 4)
+- 🕒 **Posted:** 2026-10-06

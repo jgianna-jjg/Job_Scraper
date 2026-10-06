@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-10-05 15:50 UTC",
-  "total": 8,
-  "new_count": 4,
+  "scraped_at": "2026-10-06 15:47 UTC",
+  "total": 10,
+  "new_count": 3,
   "jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Physician (Hematology and Oncology Program Manager)",
+      "location": "Salisbury, North Carolina",
+      "url": "https://www.usajobs.gov/job/887721100",
+      "date_posted": "2026-10-06",
+      "salary": "Starting at $350,000 Per year (VM 15)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Headquarters, NASA",
       "title": "Deputy Chief Information Officer",
@@ -13,11 +22,11 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Offices, Boards and Divisions",
-      "title": "Supervisory IT Program Manager (INFOSEC/PLCYPLN)",
+      "company": "Office of the Secretary of Transportation",
+      "title": "Supervisory Program Manager (Director, University Transportation Centers Program) (Open to both U.S. Citizens and Federal Employees)",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/887189600",
-      "date_posted": "2026-10-02",
+      "url": "https://www.usajobs.gov/job/887611500",
+      "date_posted": "2026-10-06",
       "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     },
@@ -31,15 +40,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "title": "Supervisory IT Program Manager",
-      "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/887268000",
-      "date_posted": "2026-10-05",
-      "salary": "Starting at $147,945 Per year (GS 15)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "DHS Headquarters",
       "title": "Chief Information Officer",
       "location": "Arlington, Virginia",
@@ -49,12 +49,30 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Supervisory Nurse (Program Manager)",
-      "location": "Tuscaloosa, Alabama",
-      "url": "https://www.usajobs.gov/job/887517300",
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "title": "Supervisory IT Program Manager",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.usajobs.gov/job/887268000",
       "date_posted": "2026-10-05",
-      "salary": "Starting at $70,525 Per year (VN 00)",
+      "salary": "Starting at $147,945 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Missile Defense Agency",
+      "title": "Program Manager",
+      "location": "Redstone Arsenal, Alabama",
+      "url": "https://www.usajobs.gov/job/887715300",
+      "date_posted": "2026-10-06",
+      "salary": "Starting at $130,987 Per year (NH 4)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Offices, Boards and Divisions",
+      "title": "Supervisory IT Program Manager (INFOSEC/PLCYPLN)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/887189600",
+      "date_posted": "2026-10-02",
+      "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
@@ -78,39 +96,30 @@
   ],
   "new_jobs": [
     {
-      "company": "Headquarters, NASA",
-      "title": "Deputy Chief Information Officer",
-      "location": "Sandusky County, Ohio",
-      "url": "https://www.usajobs.gov/job/887470100",
-      "date_posted": "2026-10-05",
-      "salary": "Starting at $217,333 Per year (ES 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Labor Statistics",
-      "title": "Director of Technology and Computing",
-      "location": "Suitland, Maryland",
-      "url": "https://www.usajobs.gov/job/887549300",
-      "date_posted": "2026-10-05",
-      "salary": "Starting at $151,661 Per year (ES 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "title": "Supervisory IT Program Manager",
-      "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/887268000",
-      "date_posted": "2026-10-05",
-      "salary": "Starting at $147,945 Per year (GS 15)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Veterans Health Administration",
-      "title": "Supervisory Nurse (Program Manager)",
-      "location": "Tuscaloosa, Alabama",
-      "url": "https://www.usajobs.gov/job/887517300",
-      "date_posted": "2026-10-05",
-      "salary": "Starting at $70,525 Per year (VN 00)",
+      "title": "Physician (Hematology and Oncology Program Manager)",
+      "location": "Salisbury, North Carolina",
+      "url": "https://www.usajobs.gov/job/887721100",
+      "date_posted": "2026-10-06",
+      "salary": "Starting at $350,000 Per year (VM 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary of Transportation",
+      "title": "Supervisory Program Manager (Director, University Transportation Centers Program) (Open to both U.S. Citizens and Federal Employees)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/887611500",
+      "date_posted": "2026-10-06",
+      "salary": "Starting at $169,279 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Missile Defense Agency",
+      "title": "Program Manager",
+      "location": "Redstone Arsenal, Alabama",
+      "url": "https://www.usajobs.gov/job/887715300",
+      "date_posted": "2026-10-06",
+      "salary": "Starting at $130,987 Per year (NH 4)",
       "ats": "USAJOBS"
     }
   ]
