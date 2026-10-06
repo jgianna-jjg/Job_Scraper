@@ -1,13 +1,21 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-05 23:40 UTC*
+*Last updated: 2026-10-06 01:01 UTC*
 
-**2 new role(s)** since last run · 10 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Director, Cybersecurity GRC](https://www.linkedin.com/jobs/view/4474648188/) — Momentive Software
+### [Vice President, Technology Operations](https://www.linkedin.com/jobs/view/4476102886/) — Swooped
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-05
+- 💰 **Salary:** $282,000 to $322,000 USD per year
+- 🕒 **Posted:** 2026-10-06
 
-### [Director of Information Technology Consultant](https://www.linkedin.com/jobs/view/4471544998/) — Tucker Parker Smith Group (TPS Group)
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $115.00/hr - $125.00/hr
-- 🕒 **Posted:** 2026-10-05
+### [Director, Corporate IT](https://www.linkedin.com/jobs/view/4476108401/) — Swooped
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-06
+
+### [Director of Information Technology](https://www.linkedin.com/jobs/view/4476100853/) — Swooped
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-06
+
+### [Director Information Technology Operations](https://www.linkedin.com/jobs/view/4476108429/) — Swooped
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-06
