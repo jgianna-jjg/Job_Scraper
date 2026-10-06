@@ -1,30 +1,37 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-06 19:31 UTC*
+*Last updated: 2026-10-06 20:47 UTC*
 
-**6 new role(s)** since last run · 11 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4458240738/) — DLA Piper
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $550,000 - $650,000 per year
-- 🕒 **Posted:** 2026-10-06
-
-### [System Director IT Project Management - Information Systems Applications - FT - Day](https://www.linkedin.com/jobs/view/4474087841/) — Stormont Vail Health
-- 📍 **Location:** Kansas, United States
-- 🕒 **Posted:** 2026-10-06
-
-### [VP, Technology & Product](https://www.linkedin.com/jobs/view/4471094762/) — JR Recruiting
+### [Chief Information Officer](https://www.linkedin.com/jobs/view/4474404152/) — Cboe C2 Exchange
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-06
 
-### [Sr. Manager, HR Technology](https://www.linkedin.com/jobs/view/4456532426/) — Safelite
+### [Interim Chief Technology Officer](https://www.linkedin.com/jobs/view/4476376236/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $174,876.00/yr - $279,896.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [IT Service Delivery Manager – API Platform, Developer Portal & Emerging AI Gateway - Sr.](https://www.linkedin.com/jobs/view/4476370427/) — Huntington National Bank
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $93,000.00 - $189,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [IT Service Delivery Manager – API Platform, Developer Portal & Emerging AI Gateway - Sr.](https://www.linkedin.com/jobs/view/4476373356/) — Huntington National Bank
 - 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $93,000.00 - $189,000.00
 - 🕒 **Posted:** 2026-10-06
 
-### [Sr. Manager, Legal Innovation & Operations (Legal Technology)](https://www.linkedin.com/jobs/view/4476344864/) — NBCUniversal
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $110,000.00/yr - $140,000.00/yr
+### [IT Service Delivery Manager – API Platform, Developer Portal & Emerging AI Gateway - Sr.](https://www.linkedin.com/jobs/view/4476381001/) — Huntington National Bank
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $93,000.00 - $189,000.00
 - 🕒 **Posted:** 2026-10-06
 
-### [Retail/Apparel IT Program Manager](https://www.linkedin.com/jobs/view/4474988819/) — Hireproo LLC
-- 📍 **Location:** New York, NY
+### [IT Service Delivery Manager – API Platform, Developer Portal & Emerging AI Gateway - Sr.](https://www.linkedin.com/jobs/view/4476378137/) — Huntington National Bank
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $93,000.00 - $189,000.00
+- 🕒 **Posted:** 2026-10-06
+
+### [Vice President of Enterprise IT](https://www.linkedin.com/jobs/view/4475108034/) — Ashar Urban Futures Lab
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-06
