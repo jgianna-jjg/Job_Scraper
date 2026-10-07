@@ -1,37 +1,35 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-07 18:00 UTC*
+*Last updated: 2026-10-07 19:03 UTC*
 
-**5 new role(s)** since last run · 21 total in last 24h
+**5 new role(s)** since last run · 23 total in last 24h
 
-### [Chief Information Officer - 48000901](https://www.indeed.com/viewjob?jk=3373b1cde2b0a5b1) — State of Florida
-- 📍 **Location:** Tallahassee, FL, US
-- 💰 **Salary:** $180k–$190k/yr
+### [Senior Director, Technology](https://www.indeed.com/viewjob?jk=1576d88b955b5e39) — Integrity Marketing Group
+- 📍 **Location:** Austin, TX, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
 
-### [UNPAID VOLUNTEER - Chief Technology Officer (CTO)](https://www.indeed.com/viewjob?jk=014b887c3ca53a24) — Unknown
-- 📍 **Location:** US
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime
+### [Head of Technology Portfolio & Operating Office](https://www.indeed.com/viewjob?jk=074a3625939e119c) — TD
+- 📍 **Location:** Mount Laurel, NJ, US
+- 💰 **Salary:** $200k–$280k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
 
-### [Technical Program Manager - Ground Infra Services, Amazon Leo](https://www.indeed.com/viewjob?jk=a8405dd10ef663a8) — Amazon.com
-- 📍 **Location:** Bellevue, WA, US
-- 💰 **Salary:** $127k–$172k/yr
+### [Program Manager](https://www.indeed.com/viewjob?jk=520446c1fbefb666) — Addx Corporation
+- 📍 **Location:** Colorado Springs, CO, US
+- 💰 **Salary:** $145k–$165k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
+- 🕒 **Posted:** 2026-10-07
 
-### [Technical Program Manager - Ground Infra Services, Amazon Leo](https://www.indeed.com/viewjob?jk=46f14bee0717b82c) — Amazon.com
-- 📍 **Location:** Bellevue, WA, US
-- 💰 **Salary:** $127k–$172k/yr
+### [Deputy Program Manager](https://www.indeed.com/viewjob?jk=b1124c37fe8714af) — HunaTek Government Solutions
+- 📍 **Location:** Colorado Springs, CO, US
+- 💰 **Salary:** $140k–$165k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
+- 🕒 **Posted:** 2026-10-07
 
-### [Executive Secretariat Program Manager - Publications & Issuances](https://www.indeed.com/viewjob?jk=fa39fc2455fd3ae1) — Network Runners, Inc.
-- 📍 **Location:** Bethesda, MD, US
+### [Program Manager](https://www.indeed.com/viewjob?jk=a56aa4d30737b0c4) — HunaTek Government Solutions
+- 📍 **Location:** Colorado Springs, CO, US
+- 💰 **Salary:** $165k–$200k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
