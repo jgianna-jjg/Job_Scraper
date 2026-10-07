@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-07 23:42 UTC",
-  "total": 25,
-  "new_count": 1,
+  "scraped_at": "2026-10-07 23:56 UTC",
+  "total": 24,
+  "new_count": 0,
   "jobs": [
     {
       "company": "American Cancer Society",
@@ -400,24 +400,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "City of Peoria, AZ",
-      "title": "ERP Product Owner/Program Manager",
-      "location": "Peoria, AZ, US",
-      "url": "https://www.indeed.com/viewjob?jk=152bea11a226ccdf",
-      "direct_url": "https://peoriaaz.wd108.myworkdayjobs.com/CityofPeoriaAZCareersJoinPeoria/job/City-Hall-Peoria-AZ/ERP-Product-Owner-Program-Manager_JR100402",
-      "company_url": "https://www.indeed.com/cmp/City-of-Peoria,-Az",
-      "date_posted": "2026-10-07",
-      "description": "Application Deadline:\n\nNovember 15, 2026\n\n**Salary Range:**\n\nMin $101,956.75 - Mid $126,426.58 - Max $150,896.40\n\nTo view all salary ranges for the City of Peoria, please click here.\n\n**Department:**\n\nCity Manager\n\n**Minimum Requirements:**\n\n**Education:**\n\n* Bachelor’s degree in computer science, Information Systems, Business Administration, Change Management or related field\n  + Education Equivalency: Related experience in excess of the requirement below may substitute on a year for year basis for the education.\n\n**Experience:**\n\n* Minimum of five years progressively responsible professional experience in system administration, configuration, or business system analysis with a minimum of two years’ experience in a supervisor or leadership role.\n\n**PREFERRED/DESIRABLE QUALIFICATION(s):**\n\n* Experience with Workday, specifically HCM, Payroll and Financials\n* Experience in a municipal or government setting.\n* Experience in ERP/IT governance and change-control processes\n* Experience leading cross-functional teams where functional resources do not directly report the to the position.\n* Experience managing ERP vendors, consultants, contacts, or external support resources.\n* Experience with ERP implementation, stabilization, optimization or major system transformation initiatives.\n* Experience managing ERP programs and projects\n\n**Tell me more…..**\n\nThe City of Peoria is seeking an experienced, hands-on and strategic Product Owner to manage the City’s enterprise resource planning (ERP) platform and lead a small, highly capable systems team. This is a working manager role—ideal for someone who thrives on both doing the work and leading the way in driving the continued success, optimization and transformation of the City’s ERP environment.\n\nThe City of Peoria recently implemented Workday Financials, Payroll and Human Capital Management, and is continuing to build and optimize the platform to meet the needs of a growing organization. This position will play a key role in ensuring Workday delivers meaningful, measurable value across Human Resources, Finance and the broader organization.\n\nThe ERP Product Owner will oversee the platform’s product roadmap and drive ongoing optimization, including system configuration, security, integrations, reporting, upgrades, break/fix support and the implementation of future Workday modules. The position will serve as a key liaison between technology and business operations, translating organizational needs into effective system solutions and ensuring the ERP platform continues to support the City's strategic goals.\n\nThe ERP team is housed within the City Manager’s Office and supports an organization of more than 1,300 full-time employees. The Manager will lead a small team of three analysts who provide system support and assistance to departments across the organization. The team is responsible for troubleshooting and resolving system issues, developing reports, supporting upgrades and enhancements, assisting with system functionality and configuration, and helping implement future modules and capabilities.\n\nThis is an opportunity for an experienced ERP or enterprise systems professional to play a significant role in shaping the City’s technology environment while leading a team that directly supports critical business operations.\n\nThis position will report to a Deputy City Manager and will be at the helm of a dedicated team, guiding ERP Analysts to success.\n\nTo view the full job description, work environment and physical demands, click here.\n\n**Why Peoria?**\n\nRecently voted the #1 place, to live, work and play, Peoria is a community you can be proud to work for. Take a look at the great benefits offered to eligible employees: Click here to view benefits offered.\n\n**About Peoria**\n\nThe City of Peoria, AZ is a thriving city in the Northwest Valley that provides excellent municipal services to our community. Recently named by AZ Big Media as the Best Place to Live, Work, and Play, we are committed to maintaining the level of service to our residents to sustain and enhance the lives and culture of Peoria.\n\nIf you are passionate about providing excellent service through anticipating our community's needs, creating partnerships, promoting sustainability, and embracing diversity, then #PeoriaisthePlace for you!\n\nGet an inside look at the Culture of Peoria\n\n**We are PEORIA!**\n\n**P**rofessional**,** **E**thical**,** **O**pen**,** **R**esponsive**,** **I**nnovative**,** **A**ccountable\n\n**Application Process:**\n\nApplications will be accepted for current vacancies until the posted closing date, or until a sufficient number of applications have been received. Applicants will be notified of any next steps by email and/or phone.\n\nDuring the selection process, any applicant requiring accommodation for a disability should advise the human resources department at employment@peoriaaz.gov or 623-773-7100.\n\n**An Equal Employment Opportunity Agency.**\n\n**Peoria es una Agencia de Igualdad de Oportunidad de Empleo.**",
-      "salary": "$102k–$151k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "employment@peoriaaz.gov",
-      "ats": "Indeed"
-    },
-    {
       "company": "Avalara",
       "title": "Strategic Initiatives Program Manager",
       "location": "Remote, US",
@@ -454,24 +436,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Peoria, AZ",
-      "title": "ERP Product Owner/Program Manager",
-      "location": "Peoria, AZ, US",
-      "url": "https://www.indeed.com/viewjob?jk=152bea11a226ccdf",
-      "direct_url": "https://peoriaaz.wd108.myworkdayjobs.com/CityofPeoriaAZCareersJoinPeoria/job/City-Hall-Peoria-AZ/ERP-Product-Owner-Program-Manager_JR100402",
-      "company_url": "https://www.indeed.com/cmp/City-of-Peoria,-Az",
-      "date_posted": "2026-10-07",
-      "description": "Application Deadline:\n\nNovember 15, 2026\n\n**Salary Range:**\n\nMin $101,956.75 - Mid $126,426.58 - Max $150,896.40\n\nTo view all salary ranges for the City of Peoria, please click here.\n\n**Department:**\n\nCity Manager\n\n**Minimum Requirements:**\n\n**Education:**\n\n* Bachelor’s degree in computer science, Information Systems, Business Administration, Change Management or related field\n  + Education Equivalency: Related experience in excess of the requirement below may substitute on a year for year basis for the education.\n\n**Experience:**\n\n* Minimum of five years progressively responsible professional experience in system administration, configuration, or business system analysis with a minimum of two years’ experience in a supervisor or leadership role.\n\n**PREFERRED/DESIRABLE QUALIFICATION(s):**\n\n* Experience with Workday, specifically HCM, Payroll and Financials\n* Experience in a municipal or government setting.\n* Experience in ERP/IT governance and change-control processes\n* Experience leading cross-functional teams where functional resources do not directly report the to the position.\n* Experience managing ERP vendors, consultants, contacts, or external support resources.\n* Experience with ERP implementation, stabilization, optimization or major system transformation initiatives.\n* Experience managing ERP programs and projects\n\n**Tell me more…..**\n\nThe City of Peoria is seeking an experienced, hands-on and strategic Product Owner to manage the City’s enterprise resource planning (ERP) platform and lead a small, highly capable systems team. This is a working manager role—ideal for someone who thrives on both doing the work and leading the way in driving the continued success, optimization and transformation of the City’s ERP environment.\n\nThe City of Peoria recently implemented Workday Financials, Payroll and Human Capital Management, and is continuing to build and optimize the platform to meet the needs of a growing organization. This position will play a key role in ensuring Workday delivers meaningful, measurable value across Human Resources, Finance and the broader organization.\n\nThe ERP Product Owner will oversee the platform’s product roadmap and drive ongoing optimization, including system configuration, security, integrations, reporting, upgrades, break/fix support and the implementation of future Workday modules. The position will serve as a key liaison between technology and business operations, translating organizational needs into effective system solutions and ensuring the ERP platform continues to support the City's strategic goals.\n\nThe ERP team is housed within the City Manager’s Office and supports an organization of more than 1,300 full-time employees. The Manager will lead a small team of three analysts who provide system support and assistance to departments across the organization. The team is responsible for troubleshooting and resolving system issues, developing reports, supporting upgrades and enhancements, assisting with system functionality and configuration, and helping implement future modules and capabilities.\n\nThis is an opportunity for an experienced ERP or enterprise systems professional to play a significant role in shaping the City’s technology environment while leading a team that directly supports critical business operations.\n\nThis position will report to a Deputy City Manager and will be at the helm of a dedicated team, guiding ERP Analysts to success.\n\nTo view the full job description, work environment and physical demands, click here.\n\n**Why Peoria?**\n\nRecently voted the #1 place, to live, work and play, Peoria is a community you can be proud to work for. Take a look at the great benefits offered to eligible employees: Click here to view benefits offered.\n\n**About Peoria**\n\nThe City of Peoria, AZ is a thriving city in the Northwest Valley that provides excellent municipal services to our community. Recently named by AZ Big Media as the Best Place to Live, Work, and Play, we are committed to maintaining the level of service to our residents to sustain and enhance the lives and culture of Peoria.\n\nIf you are passionate about providing excellent service through anticipating our community's needs, creating partnerships, promoting sustainability, and embracing diversity, then #PeoriaisthePlace for you!\n\nGet an inside look at the Culture of Peoria\n\n**We are PEORIA!**\n\n**P**rofessional**,** **E**thical**,** **O**pen**,** **R**esponsive**,** **I**nnovative**,** **A**ccountable\n\n**Application Process:**\n\nApplications will be accepted for current vacancies until the posted closing date, or until a sufficient number of applications have been received. Applicants will be notified of any next steps by email and/or phone.\n\nDuring the selection process, any applicant requiring accommodation for a disability should advise the human resources department at employment@peoriaaz.gov or 623-773-7100.\n\n**An Equal Employment Opportunity Agency.**\n\n**Peoria es una Agencia de Igualdad de Oportunidad de Empleo.**",
-      "salary": "$102k–$151k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "employment@peoriaaz.gov",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
