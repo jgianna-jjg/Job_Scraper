@@ -1,32 +1,34 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-07 17:49 UTC*
+*Last updated: 2026-10-07 18:52 UTC*
 
-**6 new role(s)** since last run · 20 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Senior Director, Technology](https://www.linkedin.com/jobs/view/4474473086/) — Integrity
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-10-07
-
-### [Director of Information Technology](https://www.linkedin.com/jobs/view/4475466509/) — RemoteHunter
+### [Chief Information Officer](https://www.linkedin.com/jobs/view/4475469622/) — Fidelity Investments.
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Director, IT Business Solutions & Delivery](https://www.linkedin.com/jobs/view/4476785584/) — Axon
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $191,340 USD - $306,144 USD
+### [Director Cybersecurity Engineering](https://www.linkedin.com/jobs/view/4456973169/) — Zenith Insurance Company (United States)
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $155,015.99 - $204,039.79
 - 🕒 **Posted:** 2026-10-07
 
-### [Director of Engineering - Institutional Risk Technology](https://www.linkedin.com/jobs/view/4456928771/) — Solomon Page
+### [VP, Compliance, Surveillance and Supervision Technology Engineering Lead](https://www.linkedin.com/jobs/view/4467938570/) — TD
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $250,000 - $330,000
 - 🕒 **Posted:** 2026-10-07
 
-### [Director, Technology](https://www.linkedin.com/jobs/view/4476790447/) — New Teacher Center
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $121,600- $ 136,800
+### [Co-Founder & Chief Technology Officer](https://www.linkedin.com/jobs/view/4476904193/) — Forequence
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Staff Security Program Manager, International Security](https://www.linkedin.com/jobs/view/4474455821/) — CoreWeave
+### [Senior Director, Technology](https://www.linkedin.com/jobs/view/4476906357/) — Integrity
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-07
+
+### [Director, Data Engineering](https://www.linkedin.com/jobs/view/4446280885/) — Publicis Collective
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $177,000 to $237,000
+- 💰 **Salary:** USD $135,375.00 - USD $216,684.00/Annually
+- 🕒 **Posted:** 2026-10-07
+
+### [Technical Program Manager II, AppRank](https://www.linkedin.com/jobs/view/4467994455/) — Amazon
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-10-07
