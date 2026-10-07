@@ -1,70 +1,32 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-07 16:51 UTC*
+*Last updated: 2026-10-07 17:49 UTC*
 
-**14 new role(s)** since last run · 21 total in last 1h
+**6 new role(s)** since last run · 20 total in last 1h
 
-### [THECB - Director of IT Operations (ITS)](https://www.linkedin.com/jobs/view/4476774672/) — Texas Higher Education Coordinating Board
+### [Senior Director, Technology](https://www.linkedin.com/jobs/view/4474473086/) — Integrity
 - 📍 **Location:** Austin, TX
-- 💰 **Salary:** $12,850.00/mo - $14,350.00/mo
 - 🕒 **Posted:** 2026-10-07
 
-### [Sr Manager- Operational Technology](https://www.linkedin.com/jobs/view/4474427063/) — Energy Transfer
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-07
-
-### [Chief Information Security Officer](https://www.linkedin.com/jobs/view/4458248652/) — DLA Piper
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $550,000 - $650,000 per year
-- 🕒 **Posted:** 2026-10-07
-
-### [Director, Operational Technology Security](https://www.linkedin.com/jobs/view/4475461247/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $256000 - $356000
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Vice President, AI & Technology Programs](https://www.linkedin.com/jobs/view/4476774785/) — Zeno Group
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000 to $235,000 USD
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Manager, Cybersecurity, AI SOC & Crisis Management - Remote](https://www.linkedin.com/jobs/view/4471919612/) — Stryker
-- 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Manager, Cybersecurity, Metrics & Reporting - Remote](https://www.linkedin.com/jobs/view/4473353670/) — Stryker
-- 📍 **Location:** United States
-- 💰 **Salary:** $155,900 - $259,700 USD
-- 🕒 **Posted:** 2026-10-07
-
-### [Director, New Product Integration and Vendor Risk Management](https://www.linkedin.com/jobs/view/4475450736/) — Google
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $256000 - $356000
-- 🕒 **Posted:** 2026-10-07
-
-### [Digital Assurance & Transparency - IT Audit Senior Manager](https://www.linkedin.com/jobs/view/4458543268/) — PwC
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $119,000 - $299,930
-- 🕒 **Posted:** 2026-10-07
-
-### [Director of Information Technology Services](https://www.linkedin.com/jobs/view/4474465359/) — Nanosonics
-- 📍 **Location:** United States
-- 💰 **Salary:** $140,000 - 163,000
-- 🕒 **Posted:** 2026-10-07
-
-### [SOX Technology Controls Program Manager](https://www.linkedin.com/jobs/view/4476779575/) — CTC
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-07
-
-### [Senior Director, Quality Coaching – Technology Innovation and Impact](https://www.linkedin.com/jobs/view/4476383321/) — Strada Education Foundation
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $143,800 - $168,250
-- 🕒 **Posted:** 2026-10-07
-
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4474454829/) — Seedly
+### [Director of Information Technology](https://www.linkedin.com/jobs/view/4475466509/) — RemoteHunter
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Technical Program Manager, Customer Logistics Security](https://www.linkedin.com/jobs/view/4467928072/) — Amazon
-- 📍 **Location:** Austin, TX
+### [Senior Director, IT Business Solutions & Delivery](https://www.linkedin.com/jobs/view/4476785584/) — Axon
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $191,340 USD - $306,144 USD
+- 🕒 **Posted:** 2026-10-07
+
+### [Director of Engineering - Institutional Risk Technology](https://www.linkedin.com/jobs/view/4456928771/) — Solomon Page
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $250,000 - $330,000
+- 🕒 **Posted:** 2026-10-07
+
+### [Director, Technology](https://www.linkedin.com/jobs/view/4476790447/) — New Teacher Center
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $121,600- $ 136,800
+- 🕒 **Posted:** 2026-10-07
+
+### [Staff Security Program Manager, International Security](https://www.linkedin.com/jobs/view/4474455821/) — CoreWeave
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $177,000 to $237,000
 - 🕒 **Posted:** 2026-10-07
