@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-06 16:20 UTC",
-  "total": 3,
+  "scraped_at": "2026-10-07 16:21 UTC",
+  "total": 5,
   "new_count": 0,
   "jobs": [
     {
@@ -22,6 +22,30 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532865",
       "date_posted": "2026-09-24",
       "salary": "$11388.00 - $13842.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Employment Development Department",
+      "title": "Disability Insurance Program Manager II",
+      "location": "Butte County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534632",
+      "date_posted": "2026-10-06",
+      "salary": "$7169.00 - $8974.00",
+      "ats": "CalCareers",
+      "telework": "In Office",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "On-site"
+    },
+    {
+      "company": "California Governor's Office of Emergency Services",
+      "title": "Program Manager I",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534568",
+      "date_posted": "2026-10-06",
+      "salary": "$8230.00 - $10242.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
