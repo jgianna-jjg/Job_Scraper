@@ -1,19 +1,14 @@
 # 🇺🇸 USAJOBS — Federal IT & Cybersecurity Roles
-*Last updated: 2026-10-06 15:47 UTC*
+*Last updated: 2026-10-07 15:57 UTC*
 
-**3 new role(s)** since last run · 10 total in current USAJOBS postings
+**2 new role(s)** since last run · 7 total in current USAJOBS postings
 
-### [Physician (Hematology and Oncology Program Manager)](https://www.usajobs.gov/job/887721100) — Veterans Health Administration
-- 📍 **Location:** Salisbury, North Carolina
-- 💰 **Salary:** Starting at $350,000 Per year (VM 15)
-- 🕒 **Posted:** 2026-10-06
+### [ENERGY PROGRAM MANAGER](https://www.usajobs.gov/job/887850900) — United States Army Installation Management Command
+- 📍 **Location:** Fort Wainwright, Alaska
+- 💰 **Salary:** Starting at $103,755 Per year (GS 12)
+- 🕒 **Posted:** 2026-10-07
 
-### [Supervisory Program Manager (Director, University Transportation Centers Program) (Open to both U.S. Citizens and Federal Employees)](https://www.usajobs.gov/job/887611500) — Office of the Secretary of Transportation
-- 📍 **Location:** Washington, District of Columbia
-- 💰 **Salary:** Starting at $169,279 Per year (GS 15)
-- 🕒 **Posted:** 2026-10-06
-
-### [Program Manager](https://www.usajobs.gov/job/887715300) — Missile Defense Agency
-- 📍 **Location:** Redstone Arsenal, Alabama
-- 💰 **Salary:** Starting at $130,987 Per year (NH 4)
+### [Pharmacist (Facility Program Manager) Informatics and EHR](https://www.usajobs.gov/job/887767500) — Veterans Health Administration
+- 📍 **Location:** Columbia, Missouri
+- 💰 **Salary:** Starting at $143,461 Per year (GS 13)
 - 🕒 **Posted:** 2026-10-06
