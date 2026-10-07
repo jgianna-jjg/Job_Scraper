@@ -1,69 +1,44 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-07 04:00 UTC*
+*Last updated: 2026-10-07 16:03 UTC*
 
-**10 new role(s)** since last run · 43 total in last 24h
+**6 new role(s)** since last run · 21 total in last 24h
 
-### [Director of Information Security](https://www.indeed.com/viewjob?jk=68b28798f59b8755) — Hollis Cobb Associates
-- 📍 **Location:** US
-- **Work mode:** Remote in-state eligible
+### [Director of IT Infrastructure & Operations](https://www.indeed.com/viewjob?jk=b8c0f1ec20bab528) — Brooks Equipment
+- 📍 **Location:** Charlotte, NC, US
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Director, Technology Leader](https://www.indeed.com/viewjob?jk=7aa0c53462b3975e) — Independence Pet Holdings
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $172k–$252k/yr
+### [Chief Technology Officer](https://www.indeed.com/viewjob?jk=d641f794a63d1b84) — Revelia
+- 📍 **Location:** Miami, FL, US
+- 💰 **Salary:** $230k–$280k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Director, Technology Communications](https://www.indeed.com/viewjob?jk=2275fe7b93082493) — Invariant LLC
+### [Director, Technology](https://www.indeed.com/viewjob?jk=70dbda70cdd242bf) — New Teacher Center
 - 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $175k–$200k/yr
+- 💰 **Salary:** $122k–$137k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
 
-### [Data Program Manager](https://www.indeed.com/viewjob?jk=229ef37f17feaca4) — Siemens
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $129k–$172k/yr
+### [Senior Director of Technology and Managed Services](https://www.indeed.com/viewjob?jk=ba601b18d5586e70) — Edgewater Federal Solutions
+- 📍 **Location:** Frederick, MD, US
+- 💰 **Salary:** $180k–$215k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Data Program Manager](https://www.indeed.com/viewjob?jk=9eafa367e52564a4) — Siemens
-- 📍 **Location:** Bellevue, WA, US
-- 💰 **Salary:** $125k–$168k/yr
+### [Senior Technical Program Manager, Google Home](https://www.indeed.com/viewjob?jk=42b3e2d8963d2400) — Google
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $192k–$278k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
 
-### [Data Program Manager](https://www.indeed.com/viewjob?jk=31e3d6cf252f936f) — Siemens
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $129k–$172k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Senior IT Program Manager](https://www.indeed.com/viewjob?jk=f27598c9790fd21f) — GUNNISON CONSULTING GROUP, INC
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $190k–$210k/yr
+### [Program Manager](https://www.indeed.com/viewjob?jk=c211ff618c2e84c6) — Aspetto, Inc.
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $100k–$140k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Program Manager (Top Secret/SCI Clearance)](https://www.indeed.com/viewjob?jk=6c3f4558722734b4) — Inflow NS
-- 📍 **Location:** Linthicum Heights, MD, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Technical Program Manager – AI Sales Technology & Sales Enablement](https://www.indeed.com/viewjob?jk=98bb78dff8af69ce) — John Hancock
-- 📍 **Location:** Boston, MA, US
-- 💰 **Salary:** $92k–$160k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Senior Program Manager - Proprietary Program](https://www.indeed.com/viewjob?jk=3796f94d500cdc98) — Boeing
-- 📍 **Location:** Albuquerque, NM, US
-- 💰 **Salary:** $204k–$276k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-07
