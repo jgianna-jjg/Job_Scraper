@@ -1,18 +1,26 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-07 19:46 UTC*
+*Last updated: 2026-10-07 20:46 UTC*
 
-**3 new role(s)** since last run · 8 total in last 1h
+**5 new role(s)** since last run · 9 total in last 1h
 
-### [Director of Sales Technology - Remote](https://www.linkedin.com/jobs/view/4453708694/) — OneDigital
-- 📍 **Location:** United States
-- 💰 **Salary:** $120,000 to $150,000 per year
+### [Vice President, Technology, Innovation & AI](https://www.linkedin.com/jobs/view/4475480917/) — World Food Program USA
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $187,660.00/yr - $192,660.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [Director Sales Technology](https://www.linkedin.com/jobs/view/4476797382/) — FTS, Inc.
+### [Director IT](https://www.linkedin.com/jobs/view/4474476457/) — Nordic Global
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-07
 
-### [Director of Professional Services](https://www.linkedin.com/jobs/view/4476914403/) — Onflo
-- 📍 **Location:** United States
-- 💰 **Salary:** $135,000 to $160,000
+### [Deputy Chief Information Officer](https://www.linkedin.com/jobs/view/4475479934/) — Insight Global
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $240,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [D365- IT Applications & Business Solutions Director](https://www.linkedin.com/jobs/view/4476911825/) — VBeyond Corporation
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-10-07
+
+### [D365- IT Applications & Business Solutions Director](https://www.linkedin.com/jobs/view/4476911737/) — VBeyond Corporation
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-07
