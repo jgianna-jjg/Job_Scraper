@@ -1,11 +1,18 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-08 16:02 UTC*
+*Last updated: 2026-10-08 17:06 UTC*
 
-**1 new role(s)** since last run · 25 total in last 24h
+**2 new role(s)** since last run · 24 total in last 24h
 
-### [Technical Program Manager II, Data and Technology, Global Sustainability](https://www.indeed.com/viewjob?jk=d5b5b72154e3e448) — Google
-- 📍 **Location:** Portland, OR, USA
-- 💰 **Salary:** $138k–$197k/yr
+### [Chief Information Officer- IDOC (SPSA Opt. 3)](https://www.indeed.com/viewjob?jk=b630e8dd0bd17c11) — State of Illinois
+- 📍 **Location:** Springfield, IL, USA
+- 💰 **Salary:** $152k–$162k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-08
+
+### [Director of Technology](https://www.indeed.com/viewjob?jk=421321f7b9a68575) — Alliance Material Handling, Inc
+- 📍 **Location:** Jessup, MD, USA
+- 💰 **Salary:** $175k–$195k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-08
