@@ -1,37 +1,63 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-08 21:23 UTC*
+*Last updated: 2026-10-08 21:47 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**12 new role(s)** since last run · 19 total in last 1h
 
-### [Senior Vice President IT - Generation, Transmission & Distribution](https://www.linkedin.com/jobs/view/4473645911/) — American Electric Power
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $305,460.00 - $397,098.50
+### [Director, ECC Technology (Data Governance/AI)](https://www.linkedin.com/jobs/view/4476205574/) — KPMG US
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $171000 - $311000 K
 - 🕒 **Posted:** 2026-10-08
 
-### [VP, Information Technology](https://www.linkedin.com/jobs/view/4465893995/) — Viventium
-- 📍 **Location:** United States
-- 💰 **Salary:** $225,000.00/yr - $250,000.00/yr
+### [Director, ECC Technology (Data Governance/AI)](https://www.linkedin.com/jobs/view/4476215246/) — KPMG US
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $171000 - $311000 K
 - 🕒 **Posted:** 2026-10-08
 
-### [Fractional IT Director](https://www.linkedin.com/jobs/view/4477442657/) — Beeline UAS
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Program Manager - Healthcare IT](https://www.linkedin.com/jobs/view/4476205241/) — CORMAC
-- 📍 **Location:** United States
-- 💰 **Salary:** $160,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior IT Project Manager ( Must have recent Apparel experience)](https://www.linkedin.com/jobs/view/4476214099/) — Hireproo LLC
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior IT Program Manager – Apparel / M&A Integration](https://www.linkedin.com/jobs/view/4475994765/) — Stellar Consulting Solutions, LLC
+### [Director, ECC Technology (Data Governance/AI)](https://www.linkedin.com/jobs/view/4476206588/) — KPMG US
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150.00/yr - $180.00/yr
+- 💰 **Salary:** $171000 - $311000 K
 - 🕒 **Posted:** 2026-10-08
 
-### [1717 - Senior Manager, Indirect Procurement- IT](https://www.linkedin.com/jobs/view/4471159746/) — LogicSource, Inc.
+### [Director, ECC Technology (Data Governance/AI)](https://www.linkedin.com/jobs/view/4476218119/) — KPMG US
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $171000 - $311000 K
+- 🕒 **Posted:** 2026-10-08
+
+### [Director, ECC Technology (Data Governance/AI)](https://www.linkedin.com/jobs/view/4476213340/) — KPMG US
+- 📍 **Location:** Virginia Beach, VA
+- 💰 **Salary:** $171000 - $311000 K
+- 🕒 **Posted:** 2026-10-08
+
+### [Director, ECC Technology (Data Governance/AI)](https://www.linkedin.com/jobs/view/4476207472/) — KPMG US
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $171000 - $311000 K
+- 🕒 **Posted:** 2026-10-08
+
+### [Director, ECC Technology (Data Governance/AI)](https://www.linkedin.com/jobs/view/4475997837/) — KPMG US
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $171000 - $311000 K
+- 🕒 **Posted:** 2026-10-08
+
+### [Virtual Chief Information Security Officer (vCISO)](https://www.linkedin.com/jobs/view/4475998808/) — Ntiva, Inc.
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-08
+
+### [Director, ECC Technology (Data Governance/AI)](https://www.linkedin.com/jobs/view/4476206584/) — KPMG US
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $171000 - $311000 K
+- 🕒 **Posted:** 2026-10-08
+
+### [Director, ECC Technology (Data Governance/AI)](https://www.linkedin.com/jobs/view/4476220004/) — KPMG US
 - 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $97,500 - $190,000 USD
+- 💰 **Salary:** $171000 - $311000 K
+- 🕒 **Posted:** 2026-10-08
+
+### [Director, IT TMT M&A - Due Diligence, Integration and Separation - Strategy](https://www.linkedin.com/jobs/view/4471983892/) — KPMG US
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $191140 - $370990 K
+- 🕒 **Posted:** 2026-10-08
+
+### [Director, IT TMT M&A - Due Diligence, Integration and Separation - Strategy](https://www.linkedin.com/jobs/view/4472300171/) — KPMG US
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $191140 - $370990 K
 - 🕒 **Posted:** 2026-10-08
