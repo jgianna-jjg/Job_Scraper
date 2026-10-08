@@ -1,19 +1,18 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-08 01:43 UTC*
+*Last updated: 2026-10-08 02:40 UTC*
 
-**3 new role(s)** since last run · 7 total in last 1h
+**3 new role(s)** since last run · 4 total in last 1h
 
-### [Director, IT & Business Enablement](https://www.linkedin.com/jobs/view/4476937873/) — Swooped
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4475728345/) — Jobgether
 - 📍 **Location:** United States
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
+- 💰 **Salary:** $225,000–$275,000
 - 🕒 **Posted:** 2026-10-08
 
-### [Cybersecurity Engineering & Operations Director](https://www.linkedin.com/jobs/view/4476966553/) — Onit
-- 📍 **Location:** United States
-- 💰 **Salary:** $150,000 - $190,000
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4476761715/) — Gizmo
+- 📍 **Location:** Texas City, TX
 - 🕒 **Posted:** 2026-10-08
 
-### [IT Delivery Director](https://www.linkedin.com/jobs/view/4476973307/) — NTT DATA North America
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $148,088 - $246,812
+### [Director, Security Software Engineering, Google Cloud](https://www.linkedin.com/jobs/view/4475725302/) — Google
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $307000 - $427000
 - 🕒 **Posted:** 2026-10-08
