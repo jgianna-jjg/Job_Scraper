@@ -1,42 +1,24 @@
 {
-  "scraped_at": "2026-10-07 15:57 UTC",
-  "total": 7,
-  "new_count": 2,
+  "scraped_at": "2026-10-08 15:51 UTC",
+  "total": 6,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Veterans Health Administration",
-      "title": "Physician (Hematology and Oncology Program Manager)",
-      "location": "Salisbury, North Carolina",
-      "url": "https://www.usajobs.gov/job/887721100",
-      "date_posted": "2026-10-06",
-      "salary": "Starting at $350,000 Per year (VM 15)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Headquarters, NASA",
-      "title": "Deputy Chief Information Officer",
-      "location": "Sandusky County, Ohio",
-      "url": "https://www.usajobs.gov/job/887470100",
-      "date_posted": "2026-10-05",
-      "salary": "Starting at $217,333 Per year (ES 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "United States Army Installation Management Command",
-      "title": "ENERGY PROGRAM MANAGER",
-      "location": "Fort Wainwright, Alaska",
-      "url": "https://www.usajobs.gov/job/887850900",
+      "company": "Office of Special Counsel",
+      "title": "Chief Information Officer",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/888068400",
       "date_posted": "2026-10-07",
-      "salary": "Starting at $103,755 Per year (GS 12)",
+      "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Pharmacist (Facility Program Manager) Informatics and EHR",
-      "location": "Columbia, Missouri",
-      "url": "https://www.usajobs.gov/job/887767500",
-      "date_posted": "2026-10-06",
-      "salary": "Starting at $143,461 Per year (GS 13)",
+      "company": "Commander, Navy Installations Command",
+      "title": "IT PROGRAM MANAGER (PLCYPLN)",
+      "location": "Washington Navy Yard, District of Columbia",
+      "url": "https://www.usajobs.gov/job/887858300",
+      "date_posted": "2026-10-08",
+      "salary": "Starting at $143,913 Per year (GS 14)",
       "ats": "USAJOBS"
     },
     {
@@ -46,6 +28,15 @@
       "url": "https://www.usajobs.gov/job/883714800",
       "date_posted": "2026-09-08",
       "salary": "Starting at $190,300 Per year (DL 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "title": "IT PROGRAM MANAGER",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.usajobs.gov/job/887954700",
+      "date_posted": "2026-10-07",
+      "salary": "Starting at $142,216 Per year (GS 14)",
       "ats": "USAJOBS"
     },
     {
@@ -69,21 +60,30 @@
   ],
   "new_jobs": [
     {
-      "company": "United States Army Installation Management Command",
-      "title": "ENERGY PROGRAM MANAGER",
-      "location": "Fort Wainwright, Alaska",
-      "url": "https://www.usajobs.gov/job/887850900",
+      "company": "Office of Special Counsel",
+      "title": "Chief Information Officer",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/888068400",
       "date_posted": "2026-10-07",
-      "salary": "Starting at $103,755 Per year (GS 12)",
+      "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Pharmacist (Facility Program Manager) Informatics and EHR",
-      "location": "Columbia, Missouri",
-      "url": "https://www.usajobs.gov/job/887767500",
-      "date_posted": "2026-10-06",
-      "salary": "Starting at $143,461 Per year (GS 13)",
+      "company": "Commander, Navy Installations Command",
+      "title": "IT PROGRAM MANAGER (PLCYPLN)",
+      "location": "Washington Navy Yard, District of Columbia",
+      "url": "https://www.usajobs.gov/job/887858300",
+      "date_posted": "2026-10-08",
+      "salary": "Starting at $143,913 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Deputy Assistant Secretary for Information and Technology",
+      "title": "IT PROGRAM MANAGER",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.usajobs.gov/job/887954700",
+      "date_posted": "2026-10-07",
+      "salary": "Starting at $142,216 Per year (GS 14)",
       "ats": "USAJOBS"
     }
   ]
