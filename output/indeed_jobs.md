@@ -1,25 +1,17 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-08 02:00 UTC*
+*Last updated: 2026-10-08 02:43 UTC*
 
-**3 new role(s)** since last run · 11 total in last 24h
+**2 new role(s)** since last run · 13 total in last 24h
 
-### [Senior Director Software Engineering - CTO](https://www.indeed.com/viewjob?jk=110edb5beff69523) — Information Technology Senior Management Forum
-- 📍 **Location:** Plano, TX, US
-- 💰 **Salary:** $286k–$327k/yr
+### [CHIEF INFORMATION OFFICER](https://www.indeed.com/viewjob?jk=6735ba6116cd4fa1) — Los Alamos County
+- 📍 **Location:** NM, US
+- 💰 **Salary:** $130k–$211k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-05
 
-### [Director of IT, Corporate Security & Infrastructure](https://www.indeed.com/viewjob?jk=dfdd1b749c753eef) — FRONT
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $250k–$276k/yr
+### [Technical Program Manager](https://www.indeed.com/viewjob?jk=6b65a4a132fbf3a1) — Cengage
+- 📍 **Location:** OH, US
+- 💰 **Salary:** $102k–$163k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
-
-### [Enterprise Systems Program Manager](https://www.indeed.com/viewjob?jk=943eaad9a9158b10) — FHI 360
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $120k–$140k/yr
-- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
