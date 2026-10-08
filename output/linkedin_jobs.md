@@ -1,42 +1,60 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-08 17:49 UTC*
+*Last updated: 2026-10-08 18:52 UTC*
 
-**8 new role(s)** since last run · 22 total in last 1h
+**12 new role(s)** since last run · 20 total in last 1h
 
-### [Senior Manager, HR Technology](https://www.linkedin.com/jobs/view/4459851653/) — American Bureau of Shipping (ABS)
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-08
-
-### [Cyber - Operational Technology - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4466258090/) — EY
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $204,800 to $425,500
-- 🕒 **Posted:** 2026-10-08
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467165851/) — PwC
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $91,000 - $321,500
-- 🕒 **Posted:** 2026-10-08
-
-### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467176625/) — PwC
+### [Director of Digital Platform Technology - Global Asset Management](https://www.linkedin.com/jobs/view/4468936421/) — Saragossa
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $91,000 - $321,500
+- 💰 **Salary:** $300,000.00/yr - $450,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Cyber - Operational Technology - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4466243965/) — EY
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $204,800 to $425,500
-- 🕒 **Posted:** 2026-10-08
-
-### [Cyber - Operational Technology - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4466262048/) — EY
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $204,800 to $425,500
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Director, Crisis Communications – Cybersecurity & Data Privacy](https://www.linkedin.com/jobs/view/4459379041/) — FTI Consulting
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Senior Lease Delivery Program Manager](https://www.linkedin.com/jobs/view/4468624617/) — Microsoft
+### [Chief Information Officer](https://www.linkedin.com/jobs/view/4476202035/) — NU Advisory Partners
 - 📍 **Location:** United States
-- 💰 **Salary:** USD $119,800 - $234,700 per year
+- 🕒 **Posted:** 2026-10-08
+
+### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4477426777/) — Walk On Ventures
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-08
+
+### [Cyber - Operational Technology - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4466259060/) — EY
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $204,800 to $425,500
+- 🕒 **Posted:** 2026-10-08
+
+### [Cyber - Operational Technology - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4466253171/) — EY
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $204,800 to $425,500
+- 🕒 **Posted:** 2026-10-08
+
+### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467164847/) — PwC
+- 📍 **Location:** Indianapolis, IN
+- 💰 **Salary:** $91,000 - $321,500
+- 🕒 **Posted:** 2026-10-08
+
+### [Chief Information Officer](https://www.linkedin.com/jobs/view/4476200063/) — NU Advisory Partners
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-08
+
+### [Cyber - Operational Technology - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4466256111/) — EY
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $204,800 to $425,500
+- 🕒 **Posted:** 2026-10-08
+
+### [R&I Independence Technology Team (ITT) Senior Manager](https://www.linkedin.com/jobs/view/4467165843/) — PwC
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $91,000 - $321,500
+- 🕒 **Posted:** 2026-10-08
+
+### [Cyber - Operational Technology - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4466253173/) — EY
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $204,800 to $425,500
+- 🕒 **Posted:** 2026-10-08
+
+### [Cyber - Operational Technology - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4466261064/) — EY
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $204,800 to $425,500
+- 🕒 **Posted:** 2026-10-08
+
+### [Co-Founder & Chief Technology Officer](https://www.linkedin.com/jobs/view/4477435483/) — Forequence
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-08
