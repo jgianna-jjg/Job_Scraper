@@ -1,21 +1,19 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-08 00:52 UTC*
+*Last updated: 2026-10-08 01:43 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 7 total in last 1h
 
-### [Director, Corporate IT](https://www.linkedin.com/jobs/view/4476967172/) — Swooped
+### [Director, IT & Business Enablement](https://www.linkedin.com/jobs/view/4476937873/) — Swooped
 - 📍 **Location:** United States
+- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Director of Information Technology](https://www.linkedin.com/jobs/view/4476950906/) — Swooped
+### [Cybersecurity Engineering & Operations Director](https://www.linkedin.com/jobs/view/4476966553/) — Onit
 - 📍 **Location:** United States
+- 💰 **Salary:** $150,000 - $190,000
 - 🕒 **Posted:** 2026-10-08
 
-### [Director, Infrastructure & IT Operations](https://www.linkedin.com/jobs/view/4476953637/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $170,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Director Information Technology Operations](https://www.linkedin.com/jobs/view/4476951968/) — Swooped
-- 📍 **Location:** United States
+### [IT Delivery Director](https://www.linkedin.com/jobs/view/4476973307/) — NTT DATA North America
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $148,088 - $246,812
 - 🕒 **Posted:** 2026-10-08
