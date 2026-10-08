@@ -1,36 +1,45 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-08 03:45 UTC*
+*Last updated: 2026-10-08 04:00 UTC*
 
-**5 new role(s)** since last run · 15 total in last 24h
+**6 new role(s)** since last run · 17 total in last 24h
 
-### [Program Manager, MBA & Executive MBA](https://www.indeed.com/viewjob?jk=25c8847ebda51021) — City University Of Seattle
-- 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $85k–$90k/yr
+### [Deputy Chief Technology Officer / Product Owner](https://www.indeed.com/viewjob?jk=2d6b8de9217c518d) — Unknown
+- 📍 **Location:** Florence, CO, US
+- 💰 **Salary:** $150k–$200k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=070f6024f2980db6) — Veritiv
-- 📍 **Location:** Atlanta, GA, US
+### [Program Manager - Workforce Support](https://www.indeed.com/viewjob?jk=29733011fd2ebcae) — Avangrid
+- 📍 **Location:** Binghamton, NY, US
+- 💰 **Salary:** $106k–$132k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-07
+
+### [Technical Program Manager - Ground Infra Services, Amazon Leo](https://www.indeed.com/viewjob?jk=a8405dd10ef663a8) — Amazon.com
+- 📍 **Location:** Bellevue, WA, US
+- 💰 **Salary:** $127k–$172k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-09-11
 
-### [Deputy Program Manager](https://www.indeed.com/viewjob?jk=0f631ee4e79b4dc9) — Parsons
-- 📍 **Location:** CO, US
-- 💰 **Salary:** $125k–$225k/yr
+### [Technical Program Manager - Ground Infra Services, Amazon Leo](https://www.indeed.com/viewjob?jk=46f14bee0717b82c) — Amazon.com
+- 📍 **Location:** Bellevue, WA, US
+- 💰 **Salary:** $127k–$172k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-07
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
 
-### [Deputy Program Manager - Secret](https://www.indeed.com/viewjob?jk=9b16a11fc83950d3) — Parsons
-- 📍 **Location:** MD, US
-- 💰 **Salary:** $134k–$241k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-07
-
-### [Enterprise Systems Program Manager](https://www.indeed.com/viewjob?jk=943eaad9a9158b10) — FHI 360
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $120k–$140k/yr
+### [Program Manager (QIDP)](https://www.indeed.com/viewjob?jk=0980b43cc13551db) — Community Link
+- 📍 **Location:** Breese, IL, US
+- 💰 **Salary:** $52k–$54k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Program Manager, Alliances & Market Development Funds](https://www.indeed.com/viewjob?jk=6284cc25ad801c23) — Hewlett Packard Enterprise | HPE
+- 📍 **Location:** Spring, TX, US
+- 💰 **Salary:** $140k–$321k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
