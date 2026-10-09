@@ -1,35 +1,13 @@
 # 🔥 LinkedIn — IT & Cybersecurity Roles
-*Last updated: 2026-10-09 00:56 UTC*
+*Last updated: 2026-10-09 01:46 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**2 new role(s)** since last run · 8 total in last 1h
 
-### [Chief Technology Officer](https://www.linkedin.com/jobs/view/4477494842/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $220,000.00/yr - $230,000.00/yr
+### [Chief Information Officer, Texas McCombs](https://www.linkedin.com/jobs/view/4477617149/) — The University of Texas at Austin
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-10-09
 
-### [Director, Corporate IT](https://www.linkedin.com/jobs/view/4477490969/) — Swooped
+### [Senior Manager, Global Digital & Technology System Ownership](https://www.linkedin.com/jobs/view/4476225882/) — BeOne Medicines
 - 📍 **Location:** United States
+- 💰 **Salary:** $136,900.00 - $181,900.00 annually
 - 🕒 **Posted:** 2026-10-09
-
-### [Director of Information Technology](https://www.linkedin.com/jobs/view/4477484994/) — Swooped
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-09
-
-### [Director, IT & Business Enablement](https://www.linkedin.com/jobs/view/4477495765/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-09
-
-### [Director, Infrastructure & IT Operations](https://www.linkedin.com/jobs/view/4477485937/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $170,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-09
-
-### [Director Information Technology Operations](https://www.linkedin.com/jobs/view/4477496722/) — Swooped
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-09
-
-### [Director of Financial Technology](https://www.linkedin.com/jobs/view/4476792749/) — VoPay
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-08
