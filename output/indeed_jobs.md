@@ -1,30 +1,16 @@
 # 🟦 Indeed — IT & Cybersecurity Roles
-*Last updated: 2026-10-09 00:57 UTC*
+*Last updated: 2026-10-09 01:07 UTC*
 
-**4 new role(s)** since last run · 26 total in last 24h
+**2 new role(s)** since last run · 27 total in last 24h
 
-### [Chief Information Officer](https://www.indeed.com/viewjob?jk=4168110e32a48c5d) — Shasta Community Health Center
-- 📍 **Location:** Redding, CA, USA
-- 💰 **Salary:** $181k–$283k/yr
+### [Director, IT Data Center, Network, and Database Engineering](https://www.indeed.com/viewjob?jk=cda4c9488a037e38) — Truliant Federal Credit Union
+- 📍 **Location:** Winston-Salem, NC, USA
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-08
-
-### [Program Manager - Healthcare IT](https://www.indeed.com/viewjob?jk=bc3ea72698b77bac) — Cormac Corporation
-- 📍 **Location:** Leesburg, VA, USA
-- 💰 **Salary:** $160k–$215k/yr
-- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-09
 
-### [Technical Program Manager III, Security and Firmware, Platforms and Devices](https://www.indeed.com/viewjob?jk=bae25a7c37bed9e5) — Google
-- 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $163k–$236k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-08
-
-### [Technical Program Manager- Hybrid- Hartford, CT](https://www.indeed.com/viewjob?jk=ebf1b2a2c2496c40) — Infoorigin Inc
-- 📍 **Location:** Hartford, CT, USA
-- 💰 **Salary:** $60–$70/hr
+### [Director of Technology, Infrastructure & Security](https://www.indeed.com/viewjob?jk=052f8118e22761ce) — Plus One, an Optum Company
+- 📍 **Location:** Remote, USA
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-09
